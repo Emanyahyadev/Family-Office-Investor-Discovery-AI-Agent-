@@ -23193,6 +23193,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:ct acquisitions a family office|geo:?",
+  "name": "CT Acquisitions A Family Office",
+  "payload": {
+   "dedup_key": "name:ct acquisitions a family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "What Is a Family Office? A 2026 Complete Guide | CT Acquisitions"
+   },
+   "identifiers": {},
+   "name": "CT Acquisitions A Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "What Is a Family Office? A 2026 Complete Guide | CT Acquisitions"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://ctacquisitions.com/what-is-a-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:cuando hablamos de family office|geo:?",
   "name": "Cuando hablamos de Family Office",
   "payload": {
@@ -23284,6 +23307,29 @@
    "source_url": "https://www.dauphcap.com/"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:day concept of family office|geo:?",
+  "name": "day concept of the Family Office",
+  "payload": {
+   "dedup_key": "name:day concept of family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Demystifying the concept of Family Offices"
+   },
+   "identifiers": {},
+   "name": "day concept of the Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Demystifying the concept of Family Offices"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://waterfieldadvisors.com/vaults/demystifying-the-concept-of-family-offices"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:day pitney services our family office|geo:?",
@@ -24603,6 +24649,29 @@
    "source_url": "https://lennertz.com/en"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:equity has a clock a family office|geo:?",
+  "name": "equity has a clock. A Family Office",
+  "payload": {
+   "dedup_key": "name:equity has a clock a family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "What Is a Family Office? A 2026 Complete Guide | CT Acquisitions"
+   },
+   "identifiers": {},
+   "name": "equity has a clock. A Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "What Is a Family Office? A 2026 Complete Guide | CT Acquisitions"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://ctacquisitions.com/what-is-a-family-office"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:eric becker family office|geo:?",
@@ -26603,6 +26672,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:fingerboard family office|geo:?",
+  "name": "Fingerboard Family Office",
+  "payload": {
+   "dedup_key": "name:fingerboard family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Largest Family Offices in the World (Top 20 List) | Simple"
+   },
+   "identifiers": {},
+   "name": "Fingerboard Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Largest Family Offices in the World (Top 20 List) | Simple"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://andsimple.co/insights/largest-family-offices"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:firm also provides single family office|geo:?",
   "name": "firm also provides single Family Office",
   "payload": {
@@ -27505,6 +27597,29 @@
    "source_url": "https://multiinvest.com/"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:george soros s family office|geo:?",
+  "name": "George Soros's Family Office",
+  "payload": {
+   "dedup_key": "name:george soros s family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "What Is a Family Office? How Ultra-Wealthy Families Invest | HedgeTrace"
+   },
+   "identifiers": {},
+   "name": "George Soros's Family Office",
+   "raw": {
+    "query": "\"family office\" 13F filer",
+    "title": "What Is a Family Office? How Ultra-Wealthy Families Invest | HedgeTrace"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://hedgetrace.com/learn/family-offices"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:gerenciadora de patrimonios a diferencia de un family office|geo:?",
@@ -28733,6 +28848,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:homsher family office|geo:?",
+  "name": "Homsher Family Office",
+  "payload": {
+   "dedup_key": "name:homsher family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Homsher Family Office Portfolio Investments, Homsher Family Office Funds, Homsher Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Homsher Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Homsher Family Office Portfolio Investments, Homsher Family Office Funds, Homsher Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/homsher-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:honest picture is that a family office|geo:?",
   "name": "honest picture is that a Family Office",
   "payload": {
@@ -29062,6 +29200,29 @@
    },
    "source_class": "Web search (Tavily)",
    "source_url": "https://www.sewkis.com/wp-content/uploads/How-to-Convert-a-Private-Fund-Manager-Into-a-Family-Office-v3.pdf"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:if a family office|geo:?",
+  "name": "If a Family Office",
+  "payload": {
+   "dedup_key": "name:if a family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Insights"
+   },
+   "identifiers": {},
+   "name": "If a Family Office",
+   "raw": {
+    "query": "\"family office\" 13F filer",
+    "title": "Family Office Insights"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.squirepattonboggs.com/media/mbfbmlbe/family-office-insights-section-13-f-compliance.pdf"
   },
   "source_class": "Web search (Tavily)"
  },
@@ -33609,6 +33770,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:notable examples include duquesne family office|geo:?",
+  "name": "Notable examples include Duquesne Family Office",
+  "payload": {
+   "dedup_key": "name:notable examples include duquesne family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "What Is a Family Office? How Ultra-Wealthy Families Invest | HedgeTrace"
+   },
+   "identifiers": {},
+   "name": "Notable examples include Duquesne Family Office",
+   "raw": {
+    "query": "\"family office\" 13F filer",
+    "title": "What Is a Family Office? How Ultra-Wealthy Families Invest | HedgeTrace"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://hedgetrace.com/learn/family-offices"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:nous concevons la prestation de family office|geo:?",
   "name": "Nous concevons la prestation de Family Office",
   "payload": {
@@ -36423,6 +36607,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:rockefellers founded their family office|geo:?",
+  "name": "Rockefellers founded their Family Office",
+  "payload": {
+   "dedup_key": "name:rockefellers founded their family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Demystifying the concept of Family Offices"
+   },
+   "identifiers": {},
+   "name": "Rockefellers founded their Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Demystifying the concept of Family Offices"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://waterfieldadvisors.com/vaults/demystifying-the-concept-of-family-offices"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:rockefellers founded their own family office|geo:?",
   "name": "Rockefellers founded their own Family Office",
   "payload": {
@@ -37577,6 +37784,29 @@
    "source_url": "https://www.prnewswire.com/news-releases/family-office-resource-group-forg-launches-comprehensive-outsourced-solutions-for-wealth-management-firms-302269613.html"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:soros family office|geo:?",
+  "name": "Soros Family Office",
+  "payload": {
+   "dedup_key": "name:soros family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Largest Family Offices in the World (Top 20 List) | Simple"
+   },
+   "identifiers": {},
+   "name": "Soros Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Largest Family Offices in the World (Top 20 List) | Simple"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://andsimple.co/insights/largest-family-offices"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:soros fund management is a leading family office|geo:?",
@@ -41719,6 +41949,29 @@
    },
    "source_class": "Web search (Tavily)",
    "source_url": "https://creativeplanning.com/insights/family-office/single-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:you can search for specific family office|geo:?",
+  "name": "You can search for specific Family Office",
+  "payload": {
+   "dedup_key": "name:you can search for specific family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "What Is a Family Office? How Ultra-Wealthy Families Invest | HedgeTrace"
+   },
+   "identifiers": {},
+   "name": "You can search for specific Family Office",
+   "raw": {
+    "query": "\"family office\" 13F filer",
+    "title": "What Is a Family Office? How Ultra-Wealthy Families Invest | HedgeTrace"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://hedgetrace.com/learn/family-offices"
   },
   "source_class": "Web search (Tavily)"
  },
