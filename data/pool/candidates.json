@@ -19677,6 +19677,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:although technically not a family office|geo:?",
+  "name": "Although technically not a Family Office",
+  "payload": {
+   "dedup_key": "name:although technically not a family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office - Pandaconnect"
+   },
+   "identifiers": {},
+   "name": "Although technically not a Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Family Office - Pandaconnect"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://pandaconnect.com/family-office-history"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:altss as a multi family office|geo:?",
   "name": "Altss as a Multi Family Office",
   "payload": {
@@ -20615,6 +20638,29 @@
    },
    "source_class": "Web search (Tavily)",
    "source_url": "https://www.famcap.com/2024/11/lego-dynasty-launch-new-impact-focused-family-office-and-restructure-group"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:bahrain exits by family office|geo:?",
+  "name": "Bahrain Exits by The Family Office",
+  "payload": {
+   "dedup_key": "name:bahrain exits by family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "The Family Office of Bahrain Portfolio Investments, The Family Office of Bahrain Funds, The Family Office of Bahrain Exits"
+   },
+   "identifiers": {},
+   "name": "Bahrain Exits by The Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "The Family Office of Bahrain Portfolio Investments, The Family Office of Bahrain Funds, The Family Office of Bahrain Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/the-family-office-of-bahrain"
   },
   "source_class": "Web search (Tavily)"
  },
@@ -21770,6 +21816,29 @@
    "source_url": "https://en.wikipedia.org/wiki/Family_office"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:central bank of bahrain family office|geo:?",
+  "name": "Central Bank of Bahrain. The Family Office",
+  "payload": {
+   "dedup_key": "name:central bank of bahrain family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "The Family Office of Bahrain Portfolio Investments, The Family Office of Bahrain Funds, The Family Office of Bahrain Exits"
+   },
+   "identifiers": {},
+   "name": "Central Bank of Bahrain. The Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "The Family Office of Bahrain Portfolio Investments, The Family Office of Bahrain Funds, The Family Office of Bahrain Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/the-family-office-of-bahrain"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:centralized family office|geo:?",
@@ -23945,6 +24014,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:does it make sense to start a family office|geo:?",
+  "name": "does it make sense to start a Family Office",
+  "payload": {
+   "dedup_key": "name:does it make sense to start a family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office: When It Makes Sense to Build One | Long Angle"
+   },
+   "identifiers": {},
+   "name": "does it make sense to start a Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "Single Family Office: When It Makes Sense to Build One | Long Angle"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.longangle.com/blog/single-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:does lien family office|geo:?",
   "name": "does the Lien Family Office",
   "payload": {
@@ -24891,6 +24983,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:exclusive family office|geo:?",
+  "name": "Exclusive Family Office",
+  "payload": {
+   "dedup_key": "name:exclusive family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Benefits of Working with a Multi-Family Office | Aspiriant"
+   },
+   "identifiers": {},
+   "name": "Exclusive Family Office",
+   "raw": {
+    "query": "\"multi family office\" advisor",
+    "title": "Benefits of Working with a Multi-Family Office | Aspiriant"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://aspiriant.com/fathom/benefits-of-multi-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:executive chair of emigrant family office|geo:?",
   "name": "Executive Chair of Emigrant Family Office",
   "payload": {
@@ -24960,6 +25075,75 @@
    "source_url": "https://www.prnewswire.com/news-releases/linepoint-partners--co-launches-family-office-firm-with-a-pioneering-affiliation-model-for-ultra-high-net-worth-financial-advisors-and-single-family-office-executives-302397958.html"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:exits keiretsu family office|geo:?",
+  "name": "Exits Keiretsu Family Office",
+  "payload": {
+   "dedup_key": "name:exits keiretsu family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Keiretsu Family Office Portfolio Investments, Keiretsu Family Office Funds, Keiretsu Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Exits Keiretsu Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Keiretsu Family Office Portfolio Investments, Keiretsu Family Office Funds, Keiretsu Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/keiretsu-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:exits stetson family office|geo:?",
+  "name": "Exits Stetson Family Office",
+  "payload": {
+   "dedup_key": "name:exits stetson family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Stetson Family Office Portfolio Investments, Stetson Family Office Funds, Stetson Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Exits Stetson Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Stetson Family Office Portfolio Investments, Stetson Family Office Funds, Stetson Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/stetson-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:exits trees family office|geo:?",
+  "name": "Exits Trees Family Office",
+  "payload": {
+   "dedup_key": "name:exits trees family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Trees Family Office Portfolio Investments, Trees Family Office Funds, Trees Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Exits Trees Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Trees Family Office Portfolio Investments, Trees Family Office Funds, Trees Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/trees-family-office"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:expansion strengthens family office|geo:?",
@@ -26515,6 +26699,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:firm s experienced family office|geo:?",
+  "name": "firm's experienced Family Office",
+  "payload": {
+   "dedup_key": "name:firm s experienced family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management Services | Cerity Partners"
+   },
+   "identifiers": {},
+   "name": "firm's experienced Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management Services | Cerity Partners"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://ceritypartners.com/individuals-and-families/family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:firm type family office|geo:?",
   "name": "Firm type Family Office",
   "payload": {
@@ -26560,6 +26767,29 @@
    "source_url": "https://www.clearriverinvestments.com/"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:first true family office|geo:?",
+  "name": "LLC The first true Family Office",
+  "payload": {
+   "dedup_key": "name:first true family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "The History and Future of the Family Office – No longer just For Billionaires - Robertson Stephens Wealth Management, LLC"
+   },
+   "identifiers": {},
+   "name": "LLC The first true Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "The History and Future of the Family Office – No longer just For Billionaires - Robertson Stephens Wealth Management, LLC"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://rscapital.com/2023/04/12/the-history-and-future-of-the-family-office-no-longer-just-for-billionaires"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:five eleven partners launch to shake up family office|geo:?",
@@ -28694,6 +28924,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:i googled family office|geo:?",
+  "name": "I googled Family Office",
+  "payload": {
+   "dedup_key": "name:i googled family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "ELI5 - what is a Family Office? : r/explainlikeimfive"
+   },
+   "identifiers": {},
+   "name": "I googled Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "ELI5 - what is a Family Office? : r/explainlikeimfive"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.reddit.com/r/explainlikeimfive/comments/1uxu7im/eli5_what_is_a_family_office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:i had found right partner with family office|geo:?",
   "name": "I had found the right partner. With the Family Office",
   "payload": {
@@ -29505,6 +29758,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:investing is a sea summit by family office|geo:?",
+  "name": "Investing is a Sea' summit by The Family Office",
+  "payload": {
+   "dedup_key": "name:investing is a sea summit by family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "The Family Office of Bahrain Portfolio Investments, The Family Office of Bahrain Funds, The Family Office of Bahrain Exits"
+   },
+   "identifiers": {},
+   "name": "Investing is a Sea' summit by The Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "The Family Office of Bahrain Portfolio Investments, The Family Office of Bahrain Funds, The Family Office of Bahrain Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/the-family-office-of-bahrain"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:investment advisor multi family office|geo:?",
   "name": "Investment Advisor Multi Family Office",
   "payload": {
@@ -30021,6 +30297,29 @@
    },
    "source_class": "Web search (Tavily)",
    "source_url": "https://karmanbeyond.com/family-office-structure"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:keiretsu family office|geo:?",
+  "name": "Keiretsu Family Office",
+  "payload": {
+   "dedup_key": "name:keiretsu family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Keiretsu Family Office Portfolio Investments, Keiretsu Family Office Funds, Keiretsu Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Keiretsu Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Keiretsu Family Office Portfolio Investments, Keiretsu Family Office Funds, Keiretsu Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/keiretsu-family-office"
   },
   "source_class": "Web search (Tavily)"
  },
@@ -31323,6 +31622,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:long angle a single family office|geo:?",
+  "name": "Long Angle A single Family Office",
+  "payload": {
+   "dedup_key": "name:long angle a single family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office: When It Makes Sense to Build One | Long Angle"
+   },
+   "identifiers": {},
+   "name": "Long Angle A single Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "Single Family Office: When It Makes Sense to Build One | Long Angle"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.longangle.com/blog/single-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:long term capital stewardship dentonia park family office|geo:?",
   "name": "Long-Term Capital Stewardship Dentonia Park Family Office",
   "payload": {
@@ -31416,6 +31738,52 @@
    "source_url": "https://actecfoundation.org/podcasts/family-office-landscape-models-services-options/"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:lowenstein s family office|geo:?",
+  "name": "Lowenstein's Family Office",
+  "payload": {
+   "dedup_key": "name:lowenstein s family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office and Private Investments | Lowenstein Sandler LLP"
+   },
+   "identifiers": {},
+   "name": "Lowenstein's Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "Family Office and Private Investments | Lowenstein Sandler LLP"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.lowenstein.com/practices-sectors/private-client-services/family-office-and-private-investments"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:lowenstein sandler lowenstein sandler s family office|geo:?",
+  "name": "Lowenstein Sandler LLP Lowenstein Sandler's Family Office",
+  "payload": {
+   "dedup_key": "name:lowenstein sandler lowenstein sandler s family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office and Private Investments | Lowenstein Sandler LLP"
+   },
+   "identifiers": {},
+   "name": "Lowenstein Sandler LLP Lowenstein Sandler's Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "Family Office and Private Investments | Lowenstein Sandler LLP"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.lowenstein.com/practices-sectors/private-client-services/family-office-and-private-investments"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:luis miletti family office|geo:?",
@@ -34542,6 +34910,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:post liquidity family office|geo:?",
+  "name": "Post-liquidity Family Office",
+  "payload": {
+   "dedup_key": "name:post liquidity family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "A Brief History of Family Offices"
+   },
+   "identifiers": {},
+   "name": "Post-liquidity Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "A Brief History of Family Offices"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://umbrex.com/resources/family-office-set-up-and-operations-playbook/a-brief-history-of-family-offices"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:praxis rock flying tiger capital is a family office|geo:?",
   "name": "Praxis Rock Flying Tiger Capital is a Family Office",
   "payload": {
@@ -37141,6 +37532,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:so what are differences between a single family office|geo:?",
+  "name": "So what are the differences between a single Family Office",
+  "payload": {
+   "dedup_key": "name:so what are differences between a single family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Single Family vs Multi-Family Office | TIGER 21"
+   },
+   "identifiers": {},
+   "name": "So what are the differences between a single Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "Single Family vs Multi-Family Office | TIGER 21"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://tiger21.com/insights/single-family-office-vs-multi-family-office"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:solutions for wealth management firms family office|geo:?",
   "name": "Solutions for Wealth Management Firms Family Office",
   "payload": {
@@ -37163,6 +37577,29 @@
    "source_url": "https://www.prnewswire.com/news-releases/family-office-resource-group-forg-launches-comprehensive-outsourced-solutions-for-wealth-management-firms-302269613.html"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:soros fund management is a leading family office|geo:?",
+  "name": "Soros Fund Management is a leading Family Office",
+  "payload": {
+   "dedup_key": "name:soros fund management is a leading family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office - Pandaconnect"
+   },
+   "identifiers": {},
+   "name": "Soros Fund Management is a leading Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Family Office - Pandaconnect"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://pandaconnect.com/family-office-history"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:source family office|geo:?",
@@ -37470,6 +37907,29 @@
    "source_url": "https://www.businesswire.com/news/home/20260407872746/en/%242.4-Billion-Advisory-Team-Launches-Evertern-Wealth-in-Naples-Florida"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:stetson family office|geo:?",
+  "name": "Stetson Family Office",
+  "payload": {
+   "dedup_key": "name:stetson family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Stetson Family Office Portfolio Investments, Stetson Family Office Funds, Stetson Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Stetson Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Stetson Family Office Portfolio Investments, Stetson Family Office Funds, Stetson Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/stetson-family-office"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:stewart will build out offering as head of family office|geo:?",
@@ -38552,6 +39012,29 @@
    "source_url": "https://en.wikipedia.org/wiki/Family_office"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:trees family office|geo:?",
+  "name": "Trees Family Office",
+  "payload": {
+   "dedup_key": "name:trees family office|geo:?",
+   "discovered_at": "2026-10-01",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Trees Family Office Portfolio Investments, Trees Family Office Funds, Trees Family Office Exits"
+   },
+   "identifiers": {},
+   "name": "Trees Family Office",
+   "raw": {
+    "query": "\"family office\" founded new",
+    "title": "Trees Family Office Portfolio Investments, Trees Family Office Funds, Trees Family Office Exits"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.cbinsights.com/investor/trees-family-office"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:trusted consultants for family office|geo:?",
