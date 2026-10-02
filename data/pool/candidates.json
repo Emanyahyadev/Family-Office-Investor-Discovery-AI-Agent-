@@ -19985,6 +19985,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:analyze independent family office|geo:?",
+  "name": "Analyze Independent Family Office",
+  "payload": {
+   "dedup_key": "name:analyze independent family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Independent Family Office, LLC — 13F Portfolio Holdings | Oxford Ledge"
+   },
+   "identifiers": {},
+   "name": "Analyze Independent Family Office",
+   "raw": {
+    "query": "\"family office\" 13F filer",
+    "title": "Independent Family Office, LLC — 13F Portfolio Holdings | Oxford Ledge"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.oxfordledge.com/13f/1756485-independent-family-office-llc"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:andrew serve a significant number of family office|geo:?",
   "name": "Andrew serve a significant number of Family Office",
   "payload": {
@@ -21495,6 +21518,30 @@
   "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
  {
+  "dedup_key": "name:big four experience family office|geo:?",
+  "name": "Big Four experience Family Office",
+  "payload": {
+   "dedup_key": "name:big four experience family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "identifiers": {},
+   "name": "Big Four experience Family Office",
+   "raw": {
+    "published": "2026-09-20T04:39:50.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/in/mariia-eroshin-cfa-cfp-cpa-mba"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:bill gates family office|geo:?",
   "name": "Bill Gates Family Office",
   "payload": {
@@ -22533,6 +22580,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:cfo and head of family office|geo:?",
+  "name": "CFO and Head of Family Office",
+  "payload": {
+   "dedup_key": "name:cfo and head of family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "identifiers": {},
+   "name": "CFO and Head of Family Office",
+   "raw": {
+    "published": "2026-09-20T04:39:50.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/in/mariia-eroshin-cfa-cfp-cpa-mba"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:cfo ceo interim sfo positions including mfo family office|geo:?",
   "name": "CFO & CEO Interim SFO Positions including MFO Family Office",
   "payload": {
@@ -22650,6 +22721,29 @@
    "source_url": "https://rafflesgroup.co/about-rfo/"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:changed in independent family office|geo:?",
+  "name": "changed in Independent Family Office",
+  "payload": {
+   "dedup_key": "name:changed in independent family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Independent Family Office, LLC — 13F Portfolio Holdings | Oxford Ledge"
+   },
+   "identifiers": {},
+   "name": "changed in Independent Family Office",
+   "raw": {
+    "query": "\"family office\" 13F filer",
+    "title": "Independent Family Office, LLC — 13F Portfolio Holdings | Oxford Ledge"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.oxfordledge.com/13f/1756485-independent-family-office-llc"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:charlie founded iwp family office|geo:?",
@@ -24143,6 +24237,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:dedicated family office|geo:?",
+  "name": "dedicated Family Office",
+  "payload": {
+   "dedup_key": "name:dedicated family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "identifiers": {},
+   "name": "dedicated Family Office",
+   "raw": {
+    "published": "2026-09-29T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-launches-family-office-services-enabling-firms-to-comprehensively-serve-ultra-high-net-worth-clients-302877277.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:dedicated single family office|geo:?",
   "name": "dedicated single Family Office",
   "payload": {
@@ -25557,6 +25675,30 @@
    "source_url": "https://cressetcapital.com/family-office/multi-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:esq family office|geo:?",
+  "name": "Esq Family Office",
+  "payload": {
+   "dedup_key": "name:esq family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "identifiers": {},
+   "name": "Esq Family Office",
+   "raw": {
+    "published": "2026-09-20T04:39:50.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/in/mariia-eroshin-cfa-cfp-cpa-mba"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:established as a dedicated family office|geo:?",
@@ -30210,6 +30352,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:hope and charles benson as a family office|geo:?",
+  "name": "Hope and Charles Benson. As a Family Office",
+  "payload": {
+   "dedup_key": "name:hope and charles benson as a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "About Us — Benson Family Private Equity"
+   },
+   "identifiers": {},
+   "name": "Hope and Charles Benson. As a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "About Us — Benson Family Private Equity"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://bensonequity.com/about"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:houston business journal family office|geo:?",
   "name": "Houston Business Journal Family Office",
   "payload": {
@@ -30302,6 +30468,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.linkedin.com/in/joannaroland"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:i am honored to join family office|geo:?",
+  "name": "I am honored to join the Family Office",
+  "payload": {
+   "dedup_key": "name:i am honored to join family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "identifiers": {},
+   "name": "I am honored to join the Family Office",
+   "raw": {
+    "published": "2026-09-20T04:39:50.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/in/mariia-eroshin-cfa-cfp-cpa-mba"
   },
   "source_class": "Web search (EXA)"
  },
@@ -30517,6 +30707,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://actecfoundation.org/podcasts/family-office-landscape-models-services-options/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:i think about family office|geo:?",
+  "name": "I think about Family Office",
+  "payload": {
+   "dedup_key": "name:i think about family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "identifiers": {},
+   "name": "I think about Family Office",
+   "raw": {
+    "published": "2026-09-20T04:39:50.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/in/mariia-eroshin-cfa-cfp-cpa-mba"
   },
   "source_class": "Web search (EXA)"
  },
@@ -31303,6 +31517,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.eglholding.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:international family office|geo:?",
+  "name": "International Family Office",
+  "payload": {
+   "dedup_key": "name:international family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong | Malay Mail"
+   },
+   "identifiers": {},
+   "name": "International Family Office",
+   "raw": {
+    "published": "2026-07-06T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Oldham, Li & Nie Launches Family Office Services to Support International Families in Hong Kong | Malay Mail"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.malaymail.com/news/money/mediaoutreach/2026/07/06/oldham-li-nie-launches-family-office-services-to-support-international-families-in-hong-kong/473433"
   },
   "source_class": "Web search (EXA)"
  },
@@ -34452,6 +34690,29 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:more households family office|geo:?",
+  "name": "more households the Family Office",
+  "payload": {
+   "dedup_key": "name:more households family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "[PDF] Single-Family-Office-The-Art-of-effective-Wealth-Management.pdf"
+   },
+   "identifiers": {},
+   "name": "more households the Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "[PDF] Single-Family-Office-The-Art-of-effective-Wealth-Management.pdf"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://wgfa.wharton.upenn.edu/wp-content/uploads/2020/04/Single-Family-Office-The-Art-of-effective-Wealth-Management.pdf"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:more los angeles single family office|geo:?",
   "name": "More Los Angeles Single Family Office",
   "payload": {
@@ -34732,6 +34993,30 @@
    "source_url": "https://en.wikipedia.org/wiki/Mousse_Partners"
   },
   "source_class": "Curated directory / reference (Wikipedia, associations)"
+ },
+ {
+  "dedup_key": "name:move brings family office|geo:?",
+  "name": "move brings Family Office",
+  "payload": {
+   "dedup_key": "name:move brings family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "identifiers": {},
+   "name": "move brings Family Office",
+   "raw": {
+    "published": "2026-09-29T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-launches-family-office-services-enabling-firms-to-comprehensively-serve-ultra-high-net-worth-clients-302877277.html"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:mpm capital family office|geo:?",
@@ -35330,6 +35615,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:net worth clients northwestern mutual launches family office|geo:?",
+  "name": "Net Worth Clients Northwestern Mutual Launches Family Office",
+  "payload": {
+   "dedup_key": "name:net worth clients northwestern mutual launches family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "identifiers": {},
+   "name": "Net Worth Clients Northwestern Mutual Launches Family Office",
+   "raw": {
+    "published": "2026-09-29T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-launches-family-office-services-enabling-firms-to-comprehensively-serve-ultra-high-net-worth-clients-302877277.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:neuflize obc family office|geo:?",
   "name": "Neuflize OBC Family Office",
   "payload": {
@@ -35588,6 +35897,78 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.beatriceadvisors.com/news/beatrice-advisors-launch-announcement"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:northwestern mutual family office|geo:?",
+  "name": "Northwestern Mutual Family Office",
+  "payload": {
+   "dedup_key": "name:northwestern mutual family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "identifiers": {},
+   "name": "Northwestern Mutual Family Office",
+   "raw": {
+    "published": "2026-09-29T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-launches-family-office-services-enabling-firms-to-comprehensively-serve-ultra-high-net-worth-clients-302877277.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:northwestern mutual is announcing family office|geo:?",
+  "name": "Northwestern Mutual is announcing Family Office",
+  "payload": {
+   "dedup_key": "name:northwestern mutual is announcing family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "identifiers": {},
+   "name": "Northwestern Mutual is announcing Family Office",
+   "raw": {
+    "published": "2026-09-29T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-launches-family-office-services-enabling-firms-to-comprehensively-serve-ultra-high-net-worth-clients-302877277.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:northwestern mutual launches family office|geo:?",
+  "name": "Northwestern Mutual Launches Family Office",
+  "payload": {
+   "dedup_key": "name:northwestern mutual launches family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "identifiers": {},
+   "name": "Northwestern Mutual Launches Family Office",
+   "raw": {
+    "published": "2026-09-29T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Northwestern Mutual Launches Family Office Services, Enabling Firms to Comprehensively Serve Ultra High Net Worth Clients"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.prnewswire.com/news-releases/northwestern-mutual-launches-family-office-services-enabling-firms-to-comprehensively-serve-ultra-high-net-worth-clients-302877277.html"
   },
   "source_class": "Web search (EXA)"
  },
@@ -36417,6 +36798,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://cressetcapital.com/articles/insights/from-private-equity-veterans-to-multi-family-office-leaders-qa-with-avy-stein-and-eric-becker-of-cresset/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:partner at family office|geo:?",
+  "name": "Partner at Family Office",
+  "payload": {
+   "dedup_key": "name:partner at family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "identifiers": {},
+   "name": "Partner at Family Office",
+   "raw": {
+    "published": "2026-09-20T04:39:50.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Mariia Eroshin, JD, CFA, CPA, CFP®, MBA, Esq."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/in/mariia-eroshin-cfa-cfp-cpa-mba"
   },
   "source_class": "Web search (EXA)"
  },
@@ -37763,6 +38168,29 @@
    "source_url": "https://www.pwc.ch/en/services/private-wealth/family-office.html"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:question many insiders in family office|geo:?",
+  "name": "question many insiders in the Family Office",
+  "payload": {
+   "dedup_key": "name:question many insiders in family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "[PDF] Single-Family-Office-The-Art-of-effective-Wealth-Management.pdf"
+   },
+   "identifiers": {},
+   "name": "question many insiders in the Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "[PDF] Single-Family-Office-The-Art-of-effective-Wealth-Management.pdf"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://wgfa.wharton.upenn.edu/wp-content/uploads/2020/04/Single-Family-Office-The-Art-of-effective-Wealth-Management.pdf"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:raffles family office|geo:?",
@@ -39232,6 +39660,30 @@
    "source_url": "https://thefopro.com/single-family-offices"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:secondly we are a virtual single family office|geo:?",
+  "name": "Secondly we are a virtual single Family Office",
+  "payload": {
+   "dedup_key": "name:secondly we are a virtual single family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "About Us — Benson Family Private Equity"
+   },
+   "identifiers": {},
+   "name": "Secondly we are a virtual single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "About Us — Benson Family Private Equity"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://bensonequity.com/about"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:secure your legacy at dca family office|geo:?",
@@ -41286,6 +41738,29 @@
    "source_url": "https://www.prnewswire.com/news-releases/americana-partners-launches-americana-partners-family-office-group-bringing-together-specialized-expertise-through-a-coordinated-family-office-model-302885459.html"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:that s where a family office|geo:?",
+  "name": "That's where a Family Office",
+  "payload": {
+   "dedup_key": "name:that s where a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Office vs. A Multi-Family Office"
+   },
+   "identifiers": {},
+   "name": "That's where a Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "Single-Family Office vs. A Multi-Family Office"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.arrowrootadvisors.com/insights/single-family-office-vs-a-multi-family-office"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:there are two main family office|geo:?",
@@ -44684,6 +45159,29 @@
    "source_url": "https://www.linkedin.com/in/richardjwolkowitz"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:would a family form a family office|geo:?",
+  "name": "would a family form a Family Office",
+  "payload": {
+   "dedup_key": "name:would a family form a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Offices: The Ultimate Resource for Wealth Management and Success"
+   },
+   "identifiers": {},
+   "name": "would a family form a Family Office",
+   "raw": {
+    "query": "\"single family office\"",
+    "title": "Single Family Offices: The Ultimate Resource for Wealth Management and Success"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://thefopro.com/single-family-offices"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:would a family office|geo:?",
