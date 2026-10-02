@@ -22204,6 +22204,54 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:calafia group different from a traditional family office|geo:?",
+  "name": "Calafia Group different from a traditional Family Office",
+  "payload": {
+   "dedup_key": "name:calafia group different from a traditional family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Calafia Group, A Family Office Built to Operate"
+   },
+   "identifiers": {},
+   "name": "Calafia Group different from a traditional Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Calafia Group, A Family Office Built to Operate"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://calafiagroup.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:calafia group is a single family office|geo:?",
+  "name": "Calafia Group is a single Family Office",
+  "payload": {
+   "dedup_key": "name:calafia group is a single family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Calafia Group, A Family Office Built to Operate"
+   },
+   "identifiers": {},
+   "name": "Calafia Group is a single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Calafia Group, A Family Office Built to Operate"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://calafiagroup.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:callan family office|geo:?",
   "name": "Callan Family Office",
   "payload": {
@@ -37160,6 +37208,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:otium capital is a family office|geo:?",
+  "name": "Otium Capital is a Family Office",
+  "payload": {
+   "dedup_key": "name:otium capital is a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Offices looking to invest"
+   },
+   "identifiers": {},
+   "name": "Otium Capital is a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Offices looking to invest"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.capboard.io/en/investors/family_office?page=1"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:outsourced family office|geo:?",
   "name": "outsourced Family Office",
   "payload": {
@@ -38787,6 +38859,30 @@
    "source_url": "https://hk.linkedin.com/company/raffles-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:randev family office|geo:?",
+  "name": "Randev Family Office",
+  "payload": {
+   "dedup_key": "name:randev family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Offices looking to invest"
+   },
+   "identifiers": {},
+   "name": "Randev Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Offices looking to invest"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.capboard.io/en/investors/family_office?page=1"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:ranked by how many of fiduciary family office|geo:?",
@@ -42759,6 +42855,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:to expect if a family office|geo:?",
+  "name": "to expect if a Family Office",
+  "payload": {
+   "dedup_key": "name:to expect if a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Offices looking to invest"
+   },
+   "identifiers": {},
+   "name": "to expect if a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Offices looking to invest"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.capboard.io/en/investors/family_office?page=1"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:to learn more about americana partners family office|geo:?",
   "name": "To learn more about Americana Partners Family Office",
   "payload": {
@@ -45901,6 +46021,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:yes calafia group is affiliated with family office|geo:?",
+  "name": "Yes. Calafia Group is affiliated with the Family Office",
+  "payload": {
+   "dedup_key": "name:yes calafia group is affiliated with family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Calafia Group, A Family Office Built to Operate"
+   },
+   "identifiers": {},
+   "name": "Yes. Calafia Group is affiliated with the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Calafia Group, A Family Office Built to Operate"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://calafiagroup.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:yet whether a given family needs a family office|geo:?",
   "name": "Yet whether a given family needs a Family Office",
   "payload": {
@@ -46154,6 +46298,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://pwm.gs.com/nam/en-us/insights/wealth-planning/family-governance/key-considerations-for-working-with-a-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:yym ventures is an american family office|geo:?",
+  "name": "YYM Ventures is an American Family Office",
+  "payload": {
+   "dedup_key": "name:yym ventures is an american family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Offices looking to invest"
+   },
+   "identifiers": {},
+   "name": "YYM Ventures is an American Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Offices looking to invest"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.capboard.io/en/investors/family_office?page=1"
   },
   "source_class": "Web search (EXA)"
  },
