@@ -20599,6 +20599,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:associate member of global asia family office|geo:?",
+  "name": "Associate Member of The Global-Asia Family Office",
+  "payload": {
+   "dedup_key": "name:associate member of global asia family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "齐心祎 ️Cindy Qi"
+   },
+   "identifiers": {},
+   "name": "Associate Member of The Global-Asia Family Office",
+   "raw": {
+    "published": "2026-09-18T05:49:10.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "齐心祎 ️Cindy Qi"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://exa.ai/library/person/5w45l80mth9"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:association rockefellers founded their own family office|geo:?",
   "name": "Association the Rockefellers founded their own Family Office",
   "payload": {
@@ -23863,6 +23887,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:council family office|geo:?",
+  "name": "Council Family Office",
+  "payload": {
+   "dedup_key": "name:council family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Council Family Office | Multi-Family Office in New Orleans"
+   },
+   "identifiers": {},
+   "name": "Council Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Council Family Office | Multi-Family Office in New Orleans"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.councilfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:cpa from rsm us when it comes to single family office|geo:?",
   "name": "CPA from RSM US LLP . When it comes to Single Family Office",
   "payload": {
@@ -25987,6 +26035,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:european family office|geo:?",
+  "name": "European Family Office",
+  "payload": {
+   "dedup_key": "name:european family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "齐心祎 ️Cindy Qi"
+   },
+   "identifiers": {},
+   "name": "European Family Office",
+   "raw": {
+    "published": "2026-09-18T05:49:10.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "齐心祎 ️Cindy Qi"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://exa.ai/library/person/5w45l80mth9"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:even rockefeller family office|geo:?",
   "name": "Even the Rockefeller Family Office",
   "payload": {
@@ -26054,6 +26126,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.privatebank.bankofamerica.com/articles/managing-your-family-legacy-through-a-family-office.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:everything you need to know about a family office|geo:?",
+  "name": "Everything you need to know about a Family Office",
+  "payload": {
+   "dedup_key": "name:everything you need to know about a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Everything you need to know about a family office"
+   },
+   "identifiers": {},
+   "name": "Everything you need to know about a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Everything you need to know about a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withersworldwide.com/en-gb/insight/read/everything-you-need-to-know-about-a-family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -30637,6 +30733,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:hybrid or virtual family office|geo:?",
+  "name": "Hybrid or virtual Family Office",
+  "payload": {
+   "dedup_key": "name:hybrid or virtual family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Everything you need to know about a family office"
+   },
+   "identifiers": {},
+   "name": "Hybrid or virtual Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Everything you need to know about a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withersworldwide.com/en-gb/insight/read/everything-you-need-to-know-about-a-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:i also continue to welcome referrals for family office|geo:?",
   "name": "I also continue to welcome referrals for Family Office",
   "payload": {
@@ -30800,6 +30920,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://lennertz.com/en"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:i had pleasure of joining dc finance s family office|geo:?",
+  "name": "I had the pleasure of joining DC Finance's Family Office",
+  "payload": {
+   "dedup_key": "name:i had pleasure of joining dc finance s family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "齐心祎 ️Cindy Qi"
+   },
+   "identifiers": {},
+   "name": "I had the pleasure of joining DC Finance's Family Office",
+   "raw": {
+    "published": "2026-09-18T05:49:10.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "齐心祎 ️Cindy Qi"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://exa.ai/library/person/5w45l80mth9"
   },
   "source_class": "Web search (EXA)"
  },
@@ -31519,6 +31663,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:independent advisor alliance allows council family office|geo:?",
+  "name": "Independent Advisor Alliance allows Council Family Office",
+  "payload": {
+   "dedup_key": "name:independent advisor alliance allows council family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Council Family Office | Multi-Family Office in New Orleans"
+   },
+   "identifiers": {},
+   "name": "Independent Advisor Alliance allows Council Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Council Family Office | Multi-Family Office in New Orleans"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.councilfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:independent family office|geo:?",
   "name": "independent Family Office",
   "payload": {
@@ -31706,6 +31874,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.eglholding.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:integrated family office|geo:?",
+  "name": "Integrated Family Office",
+  "payload": {
+   "dedup_key": "name:integrated family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "LinePoint Partners & Co. Launches Family Office Firm with ..."
+   },
+   "identifiers": {},
+   "name": "Integrated Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" established new firm",
+    "title": "LinePoint Partners & Co. Launches Family Office Firm with ..."
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.bridgeportft.com/insights/linepoint-partners-launches-family-office-firm"
   },
   "source_class": "Web search (EXA)"
  },
@@ -34432,6 +34624,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:managing partner and advisor multi family office|geo:?",
+  "name": "Managing Partner and Advisor - Multi- Family Office",
+  "payload": {
+   "dedup_key": "name:managing partner and advisor multi family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "齐心祎 ️Cindy Qi"
+   },
+   "identifiers": {},
+   "name": "Managing Partner and Advisor - Multi- Family Office",
+   "raw": {
+    "published": "2026-09-18T05:49:10.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "齐心祎 ️Cindy Qi"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://exa.ai/library/person/5w45l80mth9"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:managing partner of a family office|geo:?",
   "name": "Managing Partner of a Family Office",
   "payload": {
@@ -36327,6 +36543,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:notion of a family office|geo:?",
+  "name": "notion of a Family Office",
+  "payload": {
+   "dedup_key": "name:notion of a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Everything you need to know about a family office"
+   },
+   "identifiers": {},
+   "name": "notion of a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Everything you need to know about a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withersworldwide.com/en-gb/insight/read/everything-you-need-to-know-about-a-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:nous concevons la prestation de family office|geo:?",
   "name": "Nous concevons la prestation de Family Office",
   "payload": {
@@ -36562,6 +36802,30 @@
    "source_url": "https://www.lexology.com/library/detail.aspx?g=8b3f7b26-eea4-4fa7-b0ae-435528a3be18"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:often first question when creating a family office|geo:?",
+  "name": "Often the first question when creating a Family Office",
+  "payload": {
+   "dedup_key": "name:often first question when creating a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Everything you need to know about a family office"
+   },
+   "identifiers": {},
+   "name": "Often the first question when creating a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Everything you need to know about a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withersworldwide.com/en-gb/insight/read/everything-you-need-to-know-about-a-family-office"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:oln s new family office|geo:?",
@@ -37464,6 +37728,30 @@
    "source_url": "https://www.linkedin.com/company/my-family-office-partner"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:planners who advise on creating a family office|geo:?",
+  "name": "Planners who advise on creating a Family Office",
+  "payload": {
+   "dedup_key": "name:planners who advise on creating a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Everything you need to know about a family office"
+   },
+   "identifiers": {},
+   "name": "Planners who advise on creating a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Everything you need to know about a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withersworldwide.com/en-gb/insight/read/everything-you-need-to-know-about-a-family-office"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:point s latest strategic investment in family office|geo:?",
@@ -44053,6 +44341,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://gfgcapital.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:we look for ways to make family office|geo:?",
+  "name": "We look for ways to make the Family Office",
+  "payload": {
+   "dedup_key": "name:we look for ways to make family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Everything you need to know about a family office"
+   },
+   "identifiers": {},
+   "name": "We look for ways to make the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Everything you need to know about a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withersworldwide.com/en-gb/insight/read/everything-you-need-to-know-about-a-family-office"
   },
   "source_class": "Web search (EXA)"
  },
