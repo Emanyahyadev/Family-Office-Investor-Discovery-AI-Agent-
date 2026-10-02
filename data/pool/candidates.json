@@ -20668,6 +20668,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:at fractional family office|geo:?",
+  "name": "At Fractional Family Office",
+  "payload": {
+   "dedup_key": "name:at fractional family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "At Fractional Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:at matter family office|geo:?",
   "name": "At Matter Family Office",
   "payload": {
@@ -20808,6 +20832,30 @@
    "source_url": "https://andsimple.co/family-offices"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:avneet kaur s fractional family office|geo:?",
+  "name": "Avneet Kaur's Fractional Family Office",
+  "payload": {
+   "dedup_key": "name:avneet kaur s fractional family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "Avneet Kaur's Fractional Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:axial family office|geo:?",
@@ -21845,6 +21893,30 @@
    "source_url": "https://familycapital.com.ar/"
   },
   "source_class": "Web search (Serper)"
+ },
+ {
+  "dedup_key": "name:build your family office|geo:?",
+  "name": "Build your Family Office",
+  "payload": {
+   "dedup_key": "name:build your family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "Build your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:building a single family office|geo:?",
@@ -24803,6 +24875,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:do business owners entrepreneurs need a family office|geo:?",
+  "name": "do Business Owners & Entrepreneurs need a Family Office",
+  "payload": {
+   "dedup_key": "name:do business owners entrepreneurs need a family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "do Business Owners & Entrepreneurs need a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:do ultra high net worth families choose matter family office|geo:?",
   "name": "Do Ultra-High-Net-Worth Families Choose Matter Family Office",
   "payload": {
@@ -26676,6 +26772,29 @@
    },
    "identifiers": {},
    "name": "Family Office Advisors A Family Office",
+   "raw": {
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Advisors"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://www.assetvantage.com/blogs/family-office-advisors"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:family office advisors family office|geo:?",
+  "name": "Family Office Advisors Family Office",
+  "payload": {
+   "dedup_key": "name:family office advisors family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Advisors"
+   },
+   "identifiers": {},
+   "name": "Family Office Advisors Family Office",
    "raw": {
     "query": "\"multi family office\" advisor",
     "title": "Family Office Advisors"
@@ -28746,6 +28865,29 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:fundcomb single family office|geo:?",
+  "name": "FundComb Single Family Office",
+  "payload": {
+   "dedup_key": "name:fundcomb single family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "32 Family Offices Investing in North America (2026) | FundComb"
+   },
+   "identifiers": {},
+   "name": "FundComb Single Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "32 Family Offices Investing in North America (2026) | FundComb"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://fundcomb.com/lists/largest/family-offices/north-america"
+  },
+  "source_class": "Web search (Tavily)"
+ },
+ {
   "dedup_key": "name:geffen ventures is a multigenerational family office|geo:?",
   "name": "Geffen Ventures is a multigenerational Family Office",
   "payload": {
@@ -28978,6 +29120,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://privatebank.jpmorgan.com/nam/en/insights/markets-and-investing/ideas-and-insights/the-why-who-what-and-how-of-starting-a-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:global investment capital and a fractional family office|geo:?",
+  "name": "Global Investment Capital and a Fractional Family Office",
+  "payload": {
+   "dedup_key": "name:global investment capital and a fractional family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "Global Investment Capital and a Fractional Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -29334,6 +29500,29 @@
    "source_url": "https://krainertgroup.com/"
   },
   "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:growth equity venture capital family office|geo:?",
+  "name": "Growth Equity Venture Capital Family Office",
+  "payload": {
+   "dedup_key": "name:growth equity venture capital family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (Tavily)"
+   ],
+   "hints": {
+    "from_headline": "32 Family Offices Investing in North America (2026) | FundComb"
+   },
+   "identifiers": {},
+   "name": "Growth Equity Venture Capital Family Office",
+   "raw": {
+    "query": "\"family office\" investment firm",
+    "title": "32 Family Offices Investing in North America (2026) | FundComb"
+   },
+   "source_class": "Web search (Tavily)",
+   "source_url": "https://fundcomb.com/lists/largest/family-offices/north-america"
+  },
+  "source_class": "Web search (Tavily)"
  },
  {
   "dedup_key": "name:guide family office|geo:?",
@@ -31615,6 +31804,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:investment advisors cpas become multi family office|geo:?",
+  "name": "Investment Advisors & CPAs become Multi Family Office",
+  "payload": {
+   "dedup_key": "name:investment advisors cpas become multi family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "Investment Advisors & CPAs become Multi Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:investment approach as a single family office|geo:?",
   "name": "Investment Approach as a Single Family Office",
   "payload": {
@@ -32821,6 +33034,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:leading family office|geo:?",
+  "name": "Leading Family Office",
+  "payload": {
+   "dedup_key": "name:leading family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "Leading Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:leading practices for family office|geo:?",
   "name": "Leading practices for Family Office",
   "payload": {
@@ -32841,6 +33078,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/campaigns/tax/documents/ey-cs-fo-guide-interactive-jan2025-v3.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:leading tax strategist and family office|geo:?",
+  "name": "Leading Tax Strategist and Family Office",
+  "payload": {
+   "dedup_key": "name:leading tax strategist and family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "Leading Tax Strategist and Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -36109,6 +36370,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.archyde.com/nutrafol-co-founder-giorgos-tsetis-launches-family-office-with-philanthropy-focus/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:ny structure private family office|geo:?",
+  "name": "NY Structure Private Family Office",
+  "payload": {
+   "dedup_key": "name:ny structure private family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Blanck Capital | Private Family Office"
+   },
+   "identifiers": {},
+   "name": "NY Structure Private Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Blanck Capital | Private Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://blanckcapital.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -42069,6 +42354,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:to attach your family office|geo:?",
+  "name": "to attach your Family Office",
+  "payload": {
+   "dedup_key": "name:to attach your family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "to attach your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:to build a multi family office|geo:?",
   "name": "to Build a Multi Family Office",
   "payload": {
@@ -44310,6 +44619,30 @@
    "source_url": "https://ceritypartners.com/individuals-and-families/family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:where fractional family office|geo:?",
+  "name": "where the Fractional Family Office",
+  "payload": {
+   "dedup_key": "name:where fractional family office|geo:?",
+   "discovered_at": "2026-10-02",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fractional Family Office"
+   },
+   "identifiers": {},
+   "name": "where the Fractional Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Fractional Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:where is insight family office|geo:?",
