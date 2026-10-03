@@ -19182,6 +19182,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:additional filings from pathstone family office|geo:?",
+  "name": "Additional filings from Pathstone Family Office",
+  "payload": {
+   "dedup_key": "name:additional filings from pathstone family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pathstone Family Office, LLC 13F Filings"
+   },
+   "identifiers": {},
+   "name": "Additional filings from Pathstone Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" SEC 13F filings",
+    "title": "Pathstone Family Office, LLC 13F Filings"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://13f.info/manager/0001511137-pathstone-family-office-llc"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:adduntia family office|geo:?",
   "name": "Adduntia Family Office",
   "payload": {
@@ -20290,6 +20314,30 @@
    "source_url": "https://www.wefamilyoffices.com/resource/what-are-the-alternatives-to-starting-a-single-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:are differences between a family office|geo:?",
+  "name": "are the differences between a Family Office",
+  "payload": {
+   "dedup_key": "name:are differences between a family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "are the differences between a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:are family office|geo:?",
@@ -22418,6 +22466,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:can you work with our existing family office|geo:?",
+  "name": "Can you work with our existing Family Office",
+  "payload": {
+   "dedup_key": "name:can you work with our existing family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "Can you work with our existing Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:capital family office|geo:?",
   "name": "Capital Family Office",
   "payload": {
@@ -24102,6 +24174,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:creative planning provides family office|geo:?",
+  "name": "Creative Planning provides Family Office",
+  "payload": {
+   "dedup_key": "name:creative planning provides family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "identifiers": {},
+   "name": "Creative Planning provides Family Office",
+   "raw": {
+    "published": "2026-03-03T21:48:10.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://creativeplanning.com/insights/family-office/single-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:creative planning understands that family office|geo:?",
   "name": "Creative Planning understands that Family Office",
   "payload": {
@@ -25275,6 +25371,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://altss.com/profile/wah-hin-and-co-family-office-lien-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:does your onboarding process work for new family office|geo:?",
+  "name": "does your onboarding process work for new Family Office",
+  "payload": {
+   "dedup_key": "name:does your onboarding process work for new family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "does your onboarding process work for new Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
   },
   "source_class": "Web search (EXA)"
  },
@@ -26579,6 +26699,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:experience comprehensive family office|geo:?",
+  "name": "Experience comprehensive Family Office",
+  "payload": {
+   "dedup_key": "name:experience comprehensive family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "Experience comprehensive Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:expert advice for starting a family office|geo:?",
   "name": "Expert advice for starting a Family Office",
   "payload": {
@@ -26810,6 +26954,30 @@
    "source_url": "https://www.axial.net/forum/companies/united-states-family-offices"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:families choose which family office|geo:?",
+  "name": "Families choose which Family Office",
+  "payload": {
+   "dedup_key": "name:families choose which family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "identifiers": {},
+   "name": "Families choose which Family Office",
+   "raw": {
+    "published": "2026-03-03T21:48:10.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://creativeplanning.com/insights/family-office/single-family-office/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:families often consider a family office|geo:?",
@@ -27491,6 +27659,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:family office wealth management family office|geo:?",
+  "name": "Family Office Wealth Management Family Office",
+  "payload": {
+   "dedup_key": "name:family office wealth management family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "Family Office Wealth Management Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:family office wikipedia a family office|geo:?",
   "name": "Family office - Wikipedia A Family Office",
   "payload": {
@@ -27867,6 +28059,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://13f.info/manager/0001756485-independent-family-office-llc"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:filings pathstone family office|geo:?",
+  "name": "Filings Pathstone Family Office",
+  "payload": {
+   "dedup_key": "name:filings pathstone family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pathstone Family Office, LLC 13F Filings"
+   },
+   "identifiers": {},
+   "name": "Filings Pathstone Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" SEC 13F filings",
+    "title": "Pathstone Family Office, LLC 13F Filings"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://13f.info/manager/0001511137-pathstone-family-office-llc"
   },
   "source_class": "Web search (EXA)"
  },
@@ -29056,6 +29272,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://cressetcapital.com/family-office-services/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:frequently asked questions for family office|geo:?",
+  "name": "Frequently Asked Questions for Family Office",
+  "payload": {
+   "dedup_key": "name:frequently asked questions for family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "Frequently Asked Questions for Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
   },
   "source_class": "Web search (EXA)"
  },
@@ -34697,6 +34937,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:makes your family office|geo:?",
+  "name": "makes your Family Office",
+  "payload": {
+   "dedup_key": "name:makes your family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "makes your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:maliam is a single family office|geo:?",
   "name": "MALIAM is a single Family Office",
   "payload": {
@@ -38603,6 +38867,54 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.stengerfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:privacy is at heart of our family office|geo:?",
+  "name": "Privacy is at the heart of our Family Office",
+  "payload": {
+   "dedup_key": "name:privacy is at heart of our family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "Privacy is at the heart of our Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:privacy protected in your family office|geo:?",
+  "name": "privacy protected in your Family Office",
+  "payload": {
+   "dedup_key": "name:privacy protected in your family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "privacy protected in your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
   },
   "source_class": "Web search (EXA)"
  },
@@ -43472,6 +43784,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:uhnw families family office|geo:?",
+  "name": "UHNW families Family Office",
+  "payload": {
+   "dedup_key": "name:uhnw families family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "identifiers": {},
+   "name": "UHNW families Family Office",
+   "raw": {
+    "published": "2026-03-03T21:48:10.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://creativeplanning.com/insights/family-office/single-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:uhnw family office|geo:?",
   "name": "UHNW Family Office",
   "payload": {
@@ -43727,6 +44063,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.linkedin.com/in/richardjwolkowitz"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:united states using a dedicated family office|geo:?",
+  "name": "United States. Using a dedicated Family Office",
+  "payload": {
+   "dedup_key": "name:united states using a dedicated family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "identifiers": {},
+   "name": "United States. Using a dedicated Family Office",
+   "raw": {
+    "published": "2026-03-03T21:48:10.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Office: Structure, Costs and Setup"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://creativeplanning.com/insights/family-office/single-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -44772,6 +45132,30 @@
    "source_url": "https://www.matterfamilyoffice.com"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:we routinely work with your existing family office|geo:?",
+  "name": "We routinely work with your existing Family Office",
+  "payload": {
+   "dedup_key": "name:we routinely work with your existing family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management"
+   },
+   "identifiers": {},
+   "name": "We routinely work with your existing Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Wealth Management"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cwgadvisors.com/family-office-wealth-management"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:we to provide ongoing family office|geo:?",
