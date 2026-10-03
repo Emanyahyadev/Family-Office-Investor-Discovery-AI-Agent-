@@ -20222,6 +20222,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:aponte family office|geo:?",
+  "name": "Aponte Family Office",
+  "payload": {
+   "dedup_key": "name:aponte family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Multi Investment | Private Equity & Real Estate"
+   },
+   "identifiers": {},
+   "name": "Aponte Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Multi Investment | Private Equity & Real Estate"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://multiinvest.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:archegos capital management was a family office|geo:?",
   "name": "Archegos Capital Management was a Family Office",
   "payload": {
@@ -21235,6 +21259,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:bcg makes a related distinction between a family office|geo:?",
+  "name": "BCG makes a related distinction between a Family Office",
+  "payload": {
+   "dedup_key": "name:bcg makes a related distinction between a family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "identifiers": {},
+   "name": "BCG makes a related distinction between a Family Office",
+   "raw": {
+    "published": "2026-08-14T20:49:03.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.alehar.com/resources/articles/single-family-office-investor-relations-outside-co-investors"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:becoming a family office|geo:?",
   "name": "Becoming a Family Office",
   "payload": {
@@ -22083,6 +22131,30 @@
    "source_url": "https://www.allvuesystems.com/resources/what-is-a-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:but family office|geo:?",
+  "name": "But the Family Office",
+  "payload": {
+   "dedup_key": "name:but family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "identifiers": {},
+   "name": "But the Family Office",
+   "raw": {
+    "published": "2026-08-14T20:49:03.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.alehar.com/resources/articles/single-family-office-investor-relations-outside-co-investors"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:but note what conversion does not do family office|geo:?",
@@ -28058,6 +28130,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:firm is launched new us family office|geo:?",
+  "name": "Firm Is Launched New US Family Office",
+  "payload": {
+   "dedup_key": "name:firm is launched new us family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "New US Family Office Firm Is Launched"
+   },
+   "identifiers": {},
+   "name": "Firm Is Launched New US Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" established new firm",
+    "title": "New US Family Office Firm Is Launched"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.familywealthreport.com/article.php/New-US-Family-Office-Firm-Is-Launched"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:firm offers wealth advisory and family office|geo:?",
   "name": "firm offers wealth advisory and Family Office",
   "payload": {
@@ -32207,6 +32303,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.ey.com/content/dam/ey-unified-site/ey-com/en-us/campaigns/tax/documents/ey-cs-fo-guide-interactive-jan2025-v3.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:investor relations for outside investors family office|geo:?",
+  "name": "Investor Relations for Outside Co-Investors Family Office",
+  "payload": {
+   "dedup_key": "name:investor relations for outside investors family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "identifiers": {},
+   "name": "Investor Relations for Outside Co-Investors Family Office",
+   "raw": {
+    "published": "2026-08-14T20:49:03.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.alehar.com/resources/articles/single-family-office-investor-relations-outside-co-investors"
   },
   "source_class": "Web search (EXA)"
  },
@@ -39358,6 +39478,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:review whether family office|geo:?",
+  "name": "Review whether the Family Office",
+  "payload": {
+   "dedup_key": "name:review whether family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "identifiers": {},
+   "name": "Review whether the Family Office",
+   "raw": {
+    "published": "2026-08-14T20:49:03.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.alehar.com/resources/articles/single-family-office-investor-relations-outside-co-investors"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:revo digital family office|geo:?",
   "name": "Revo Digital Family Office",
   "payload": {
@@ -43677,6 +43821,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://arkolith.com/blog/hedge-fund-vs-family-office-disclosures"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:us family office|geo:?",
+  "name": "U.S Family Office",
+  "payload": {
+   "dedup_key": "name:us family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "identifiers": {},
+   "name": "U.S Family Office",
+   "raw": {
+    "published": "2026-08-14T20:49:03.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investor Relations for Outside Co-Investors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.alehar.com/resources/articles/single-family-office-investor-relations-outside-co-investors"
   },
   "source_class": "Web search (EXA)"
  },
