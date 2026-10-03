@@ -27301,6 +27301,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:family office private advisors family office|geo:?",
+  "name": "Family Office Private Advisors Family Office",
+  "payload": {
+   "dedup_key": "name:family office private advisors family office|geo:?",
+   "discovered_at": "2026-10-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Private Advisors"
+   },
+   "identifiers": {},
+   "name": "Family Office Private Advisors Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office Private Advisors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.linkedin.com/company/family-office-private-advisors-llc"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:family office resources family office|geo:?",
   "name": "Family Office Resources Family Office",
   "payload": {
