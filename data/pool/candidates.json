@@ -5920,6 +5920,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1878849",
+  "name": "Ulrich Consultants & Investment Group, LLC",
+  "payload": {
+   "dedup_key": "cik:1878849",
+   "discovered_at": "2026-10-13",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1878849",
+    "city_state": "Albuquerque, NM",
+    "state": "NM"
+   },
+   "identifiers": {
+    "cik": "1878849"
+   },
+   "name": "Ulrich Consultants & Investment Group, LLC",
+   "raw": {
+    "accession": "0001878849-26-000007",
+    "cik": "1878849",
+    "file_date": "2026-10-13",
+    "matched_form": "13F-HR",
+    "period_ending": "2026-09-30"
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1878849&type=13F-HR"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1889527",
   "name": "Louis-Dreyfus Family Office LLC",
   "payload": {
