@@ -5544,6 +5544,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1832300",
+  "name": "Longview Acquisition Corp. II",
+  "payload": {
+   "dedup_key": "cik:1832300",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1832300",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1832300"
+   },
+   "name": "Longview Acquisition Corp. II",
+   "raw": {
+    "accession": "0001085146-23-000665",
+    "cik": "1832300",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1832300&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1832483",
   "name": "Serve Robotics Inc. /DE/  (SERV)",
   "payload": {
@@ -9934,6 +9964,37 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:144136",
+  "name": "FAMILY OFFICE RESEARCH, LLC",
+  "payload": {
+   "dedup_key": "crd:144136",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "BETHESDA",
+    "country": "United States",
+    "state": "MD"
+   },
+   "identifiers": {
+    "crd": "144136"
+   },
+   "name": "FAMILY OFFICE RESEARCH, LLC",
+   "raw": {
+    "crd": "144136",
+    "other_names": [
+     "FAMILY OFFICE RESEARCH, LLC",
+     "FAMILY OFFICE RESEARCH, LLC"
+    ],
+    "sec_number": "801-80228"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/144136"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "crd:145595",
   "name": "RUGGIE WEALTH MANAGEMENT",
   "payload": {
@@ -10844,6 +10905,43 @@
    },
    "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
    "source_url": "https://adviserinfo.sec.gov/firm/summary/160516"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
+  "dedup_key": "crd:164498",
+  "name": "FORTIS ADVISORS, LLC",
+  "payload": {
+   "dedup_key": "crd:164498",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "WAYNE",
+    "country": "United States",
+    "state": "PA"
+   },
+   "identifiers": {
+    "crd": "164498"
+   },
+   "name": "FORTIS ADVISORS, LLC",
+   "raw": {
+    "crd": "164498",
+    "other_names": [
+     "FORTIS ADVISORS, LLC",
+     "FORTIS ADVISORS, LLC",
+     "FORTIS WEALTH",
+     "FORTIS PRIVATE STRATEGIES III, LLC (RELYING ADVISER)",
+     "FORTIS PRIVATE STRATEGIES I, LLC (RELYING ADVISER)",
+     "FORTIS FAMILY OFFICE",
+     "FORTIS CAPITAL REAL ESTATE MANAGER II, LLC (RELYING ADVISER)",
+     "FORTIS CAPITAL REAL ESTATE MANAGER (RELYING ADVISER)"
+    ],
+    "sec_number": "801-80177"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/164498"
   },
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
@@ -12822,6 +12920,37 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:301865",
+  "name": "STANDARD FAMILY OFFICE, LLC",
+  "payload": {
+   "dedup_key": "crd:301865",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "SIOUX FALLS",
+    "country": "United States",
+    "state": "SD"
+   },
+   "identifiers": {
+    "crd": "301865"
+   },
+   "name": "STANDARD FAMILY OFFICE, LLC",
+   "raw": {
+    "crd": "301865",
+    "other_names": [
+     "STANDARD FAMILY OFFICE, LLC",
+     "STANDARD FAMILY OFFICE, LLC"
+    ],
+    "sec_number": "801-117264"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/301865"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "crd:301900",
   "name": "INSCRIPTION FAMILY OFFICE, LLC",
   "payload": {
@@ -13311,6 +13440,37 @@
    },
    "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
    "source_url": "https://adviserinfo.sec.gov/firm/summary/307771"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
+  "dedup_key": "crd:307858",
+  "name": "WEALTHGATE FAMILY OFFICE LLC",
+  "payload": {
+   "dedup_key": "crd:307858",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "BOULDER",
+    "country": "United States",
+    "state": "CO"
+   },
+   "identifiers": {
+    "crd": "307858"
+   },
+   "name": "WEALTHGATE FAMILY OFFICE LLC",
+   "raw": {
+    "crd": "307858",
+    "other_names": [
+     "WEALTHGATE FAMILY OFFICE LLC",
+     "WEALTHGATE FAMILY OFFICE LLC"
+    ],
+    "sec_number": "801-118396"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/307858"
   },
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
@@ -14114,6 +14274,37 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:323016",
+  "name": "AURELIUS FAMILY OFFICE, LLC",
+  "payload": {
+   "dedup_key": "crd:323016",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "BEDFORD",
+    "country": "United States",
+    "state": "NH"
+   },
+   "identifiers": {
+    "crd": "323016"
+   },
+   "name": "AURELIUS FAMILY OFFICE, LLC",
+   "raw": {
+    "crd": "323016",
+    "other_names": [
+     "AURELIUS FAMILY OFFICE, LLC",
+     "AURELIUS FAMILY OFFICE, LLC"
+    ],
+    "sec_number": "801-126682"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/323016"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "crd:323249",
   "name": "TAYLOR FRIGON FAMILY OFFICE, LLC",
   "payload": {
@@ -14627,6 +14818,38 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:326990",
+  "name": "FIDUCIARY FAMILY OFFICE, LLC",
+  "payload": {
+   "dedup_key": "crd:326990",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "BOCA RATON",
+    "country": "United States",
+    "state": "FL"
+   },
+   "identifiers": {
+    "crd": "326990"
+   },
+   "name": "FIDUCIARY FAMILY OFFICE, LLC",
+   "raw": {
+    "crd": "326990",
+    "other_names": [
+     "FIDUCIARY FAMILY OFFICE, LLC",
+     "FIDUCIARY FAMILY OFFICE, LLC",
+     "GROVE ADVISORS, LLC"
+    ],
+    "sec_number": "801-128229"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/326990"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "crd:327848",
   "name": "GENERATIVE FAMILY OFFICE LLC",
   "payload": {
@@ -15110,6 +15333,38 @@
    },
    "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
    "source_url": "https://adviserinfo.sec.gov/firm/summary/334002"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
+  "dedup_key": "crd:335128",
+  "name": "CAMBIENT FAMILY OFFICE, LLC",
+  "payload": {
+   "dedup_key": "crd:335128",
+   "discovered_at": "2026-10-15",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "ADA",
+    "country": "United States",
+    "state": "MI"
+   },
+   "identifiers": {
+    "crd": "335128"
+   },
+   "name": "CAMBIENT FAMILY OFFICE, LLC",
+   "raw": {
+    "crd": "335128",
+    "other_names": [
+     "CAMBIENT FAMILY OFFICE, LLC",
+     "CAMBIENT FAMILY OFFICE, LLC",
+     "STILLWATER, LLC"
+    ],
+    "sec_number": "801-132283"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/335128"
   },
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
