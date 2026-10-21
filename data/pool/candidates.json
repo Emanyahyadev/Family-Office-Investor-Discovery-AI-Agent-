@@ -47556,6 +47556,31 @@
   "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
  {
+  "dedup_key": "qid:q141802389",
+  "name": "Numberoneks",
+  "payload": {
+   "dedup_key": "qid:q141802389",
+   "discovered_at": "2026-10-21",
+   "discovery_sources": [
+    "Curated directory / reference (Wikipedia, associations)"
+   ],
+   "hints": {
+    "country": "United States"
+   },
+   "identifiers": {
+    "qid": "Q141802389"
+   },
+   "name": "Numberoneks",
+   "raw": {
+    "qid": "Q141802389",
+    "via": "wikidata"
+   },
+   "source_class": "Curated directory / reference (Wikipedia, associations)",
+   "source_url": "http://www.wikidata.org/entity/Q141802389"
+  },
+  "source_class": "Curated directory / reference (Wikipedia, associations)"
+ },
+ {
   "dedup_key": "qid:q29954162",
   "name": "Bancard Group",
   "payload": {
