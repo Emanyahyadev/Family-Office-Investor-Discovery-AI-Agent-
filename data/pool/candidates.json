@@ -18320,6 +18320,33 @@
   "source_class": "News / Press (GDELT)"
  },
  {
+  "dedup_key": "domain:thehindubusinessline.com",
+  "name": "Premji Family Office",
+  "payload": {
+   "dedup_key": "domain:thehindubusinessline.com",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "News / Press (GDELT)"
+   ],
+   "hints": {
+    "from_headline": "Premji family office leads ₹1 , 000 crore investment in Vegafin Capital"
+   },
+   "identifiers": {
+    "domain": "thehindubusinessline.com"
+   },
+   "name": "Premji Family Office",
+   "raw": {
+    "article_title": "Premji family office leads ₹1 , 000 crore investment in Vegafin Capital",
+    "domain": "thehindubusinessline.com",
+    "language": "English",
+    "seendate": "20261022T111500Z"
+   },
+   "source_class": "News / Press (GDELT)",
+   "source_url": "https://www.thehindubusinessline.com/companies/premji-family-office-leads-1000-crore-investment-in-vegafin-capital/article71610852.ece"
+  },
+  "source_class": "News / Press (GDELT)"
+ },
+ {
   "dedup_key": "domain:wealthmanagement.com",
   "name": "Expands Family Office",
   "payload": {
