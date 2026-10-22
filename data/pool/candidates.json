@@ -60,6 +60,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1001902",
+  "name": "INTEVAC INC  (IVAC)",
+  "payload": {
+   "dedup_key": "cik:1001902",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1001902",
+    "city_state": "Santa Clara, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1001902"
+   },
+   "name": "INTEVAC INC  (IVAC)",
+   "raw": {
+    "accession": "0001325447-19-000042",
+    "cik": "1001902",
+    "file_date": "2019-09-05",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1001902&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1002390",
   "name": "America's Suppliers, Inc.",
   "payload": {
@@ -146,6 +176,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1006837&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1010858",
+  "name": "FAIRMOUNT SANTROL HOLDINGS INC.",
+  "payload": {
+   "dedup_key": "cik:1010858",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1010858",
+    "city_state": "Chesterland, OH",
+    "state": "OH"
+   },
+   "identifiers": {
+    "cik": "1010858"
+   },
+   "name": "FAIRMOUNT SANTROL HOLDINGS INC.",
+   "raw": {
+    "accession": "0001144204-17-005640",
+    "cik": "1010858",
+    "file_date": "2017-02-02",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1010858&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -270,6 +330,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1019695",
+  "name": "ARQULE INC",
+  "payload": {
+   "dedup_key": "cik:1019695",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1019695",
+    "city_state": "Burlington, MA",
+    "state": "MA"
+   },
+   "identifiers": {
+    "cik": "1019695"
+   },
+   "name": "ARQULE INC",
+   "raw": {
+    "accession": "0001325447-19-000036",
+    "cik": "1019695",
+    "file_date": "2019-09-04",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1019695&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:101984",
   "name": "UNIVERSAL ELECTRONICS INC  (UEIC)",
   "payload": {
@@ -296,6 +386,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=101984&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1021882",
+  "name": "VANGUARD SCOTTSDALE FUNDS",
+  "payload": {
+   "dedup_key": "cik:1021882",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1021882",
+    "city_state": "Valley Forge, PA",
+    "state": "PA"
+   },
+   "identifiers": {
+    "cik": "1021882"
+   },
+   "name": "VANGUARD SCOTTSDALE FUNDS",
+   "raw": {
+    "accession": "0001193125-21-041429",
+    "cik": "1021882",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1021882&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -356,6 +476,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1031623&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1036044",
+  "name": "Identiv, Inc.  (INVE)",
+  "payload": {
+   "dedup_key": "cik:1036044",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1036044",
+    "city_state": "Fremont, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1036044"
+   },
+   "name": "Identiv, Inc.  (INVE)",
+   "raw": {
+    "accession": "0001325447-19-000040",
+    "cik": "1036044",
+    "file_date": "2019-09-04",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1036044&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -450,6 +600,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1039807&type=13F-HR"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1040896",
+  "name": "Intellicheck, Inc.  (IDN)",
+  "payload": {
+   "dedup_key": "cik:1040896",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1040896",
+    "city_state": "Jericho, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1040896"
+   },
+   "name": "Intellicheck, Inc.  (IDN)",
+   "raw": {
+    "accession": "0001325447-19-000041",
+    "cik": "1040896",
+    "file_date": "2019-09-05",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1040896&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -664,6 +844,66 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1061474",
+  "name": "TURNER CAL /TN",
+  "payload": {
+   "dedup_key": "cik:1061474",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1061474",
+    "city_state": "Goodlettsville, TN",
+    "state": "TN"
+   },
+   "identifiers": {
+    "cik": "1061474"
+   },
+   "name": "TURNER CAL /TN",
+   "raw": {
+    "accession": "0000902561-06-000015",
+    "cik": "1061474",
+    "file_date": "2006-02-07",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1061474&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1062403",
+  "name": "TURNER JAMES STEPHEN",
+  "payload": {
+   "dedup_key": "cik:1062403",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1062403",
+    "city_state": "Goodlettsville, TN",
+    "state": "TN"
+   },
+   "identifiers": {
+    "cik": "1062403"
+   },
+   "name": "TURNER JAMES STEPHEN",
+   "raw": {
+    "accession": "0000902561-05-000059",
+    "cik": "1062403",
+    "file_date": "2005-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1062403&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1066194",
   "name": "EGAIN Corp  (EGAN)",
   "payload": {
@@ -690,6 +930,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1066194&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1069530",
+  "name": "CASSAVA SCIENCES INC  (SAVA)",
+  "payload": {
+   "dedup_key": "cik:1069530",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1069530",
+    "city_state": "Austin, TX",
+    "state": "TX"
+   },
+   "identifiers": {
+    "cik": "1069530"
+   },
+   "name": "CASSAVA SCIENCES INC  (SAVA)",
+   "raw": {
+    "accession": "0001325447-19-000037",
+    "cik": "1069530",
+    "file_date": "2019-09-04",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1069530&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -780,6 +1050,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1077183&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1082038",
+  "name": "DURECT CORP  (DRRX)",
+  "payload": {
+   "dedup_key": "cik:1082038",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1082038",
+    "city_state": "Cupertino, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1082038"
+   },
+   "name": "DURECT CORP  (DRRX)",
+   "raw": {
+    "accession": "0001325447-19-000039",
+    "cik": "1082038",
+    "file_date": "2019-09-04",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1082038&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -990,6 +1290,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1106838&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1108967",
+  "name": "CUI Global, Inc.",
+  "payload": {
+   "dedup_key": "cik:1108967",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1108967",
+    "city_state": "Tualatin, OR",
+    "state": "OR"
+   },
+   "identifiers": {
+    "cik": "1108967"
+   },
+   "name": "CUI Global, Inc.",
+   "raw": {
+    "accession": "0001325447-19-000043",
+    "cik": "1108967",
+    "file_date": "2019-09-05",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1108967&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -1534,6 +1864,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1218950",
+  "name": "STILLER ROBERT P",
+  "payload": {
+   "dedup_key": "cik:1218950",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1218950",
+    "city_state": "",
+    "state": "VT"
+   },
+   "identifiers": {
+    "cik": "1218950"
+   },
+   "name": "STILLER ROBERT P",
+   "raw": {
+    "accession": "0001171520-12-000073",
+    "cik": "1218950",
+    "file_date": "2012-02-03",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1218950&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1227858",
   "name": "SULZBERGER ARTHUR JR",
   "payload": {
@@ -1594,6 +1954,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1270953",
+  "name": "LEVINSON FRANK H",
+  "payload": {
+   "dedup_key": "cik:1270953",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1270953",
+    "city_state": "",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1270953"
+   },
+   "name": "LEVINSON FRANK H",
+   "raw": {
+    "accession": "0000950134-09-002988",
+    "cik": "1270953",
+    "file_date": "2009-02-17",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1270953&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1271075",
   "name": "usell.com, Inc.",
   "payload": {
@@ -1650,6 +2040,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1274173&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1274737",
+  "name": "EXAGEN INC.  (XGN)",
+  "payload": {
+   "dedup_key": "cik:1274737",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1274737",
+    "city_state": "Vista, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1274737"
+   },
+   "name": "EXAGEN INC.  (XGN)",
+   "raw": {
+    "accession": "0001085146-22-001160",
+    "cik": "1274737",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1274737&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -1864,6 +2284,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1327068",
+  "name": "United States Oil Fund, LP  (USO)",
+  "payload": {
+   "dedup_key": "cik:1327068",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1327068",
+    "city_state": "Walnut Creek, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1327068"
+   },
+   "name": "United States Oil Fund, LP  (USO)",
+   "raw": {
+    "accession": "0001085146-24-000939",
+    "cik": "1327068",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1327068&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1344376",
   "name": "AEGEAN MARINE PETROLEUM NETWORK INC.",
   "payload": {
@@ -2040,6 +2490,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1365767&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1368519",
+  "name": "North American Construction Group Ltd.  (NOA)",
+  "payload": {
+   "dedup_key": "cik:1368519",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1368519",
+    "city_state": "Acheson, A0",
+    "state": "A0"
+   },
+   "identifiers": {
+    "cik": "1368519"
+   },
+   "name": "North American Construction Group Ltd.  (NOA)",
+   "raw": {
+    "accession": "0001085146-24-005575",
+    "cik": "1368519",
+    "file_date": "2024-11-13",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1368519&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -2224,6 +2704,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1396536",
+  "name": "DUOS TECHNOLOGIES GROUP, INC.  (DUOT)",
+  "payload": {
+   "dedup_key": "cik:1396536",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1396536",
+    "city_state": "Jacksonville, FL",
+    "state": "FL"
+   },
+   "identifiers": {
+    "cik": "1396536"
+   },
+   "name": "DUOS TECHNOLOGIES GROUP, INC.  (DUOT)",
+   "raw": {
+    "accession": "0001325447-19-000038",
+    "cik": "1396536",
+    "file_date": "2019-09-04",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1396536&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1398702",
   "name": "Electronic Cigarettes International Group, Ltd.",
   "payload": {
@@ -2280,6 +2790,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1403256&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1406234",
+  "name": "Brookfield Infrastructure Partners L.P.  (BIP, BIPH, BIPI, BIPJ, BRIPF, BIP-PA, BIP-PB)",
+  "payload": {
+   "dedup_key": "cik:1406234",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1406234",
+    "city_state": "Hamilton, D0",
+    "state": "D0"
+   },
+   "identifiers": {
+    "cik": "1406234"
+   },
+   "name": "Brookfield Infrastructure Partners L.P.  (BIP, BIPH, BIPI, BIPJ, BRIPF, BIP-PA, BIP-PB)",
+   "raw": {
+    "accession": "0001085146-22-001154",
+    "cik": "1406234",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1406234&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -2974,6 +3514,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1487198",
+  "name": "ASPEN GROUP, INC.  (ASPU)",
+  "payload": {
+   "dedup_key": "cik:1487198",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1487198",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1487198"
+   },
+   "name": "ASPEN GROUP, INC.  (ASPU)",
+   "raw": {
+    "accession": "0001019056-22-000399",
+    "cik": "1487198",
+    "file_date": "2022-05-20",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1487198&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1493761",
   "name": "Turtle Beach Corp  (HEAR)",
   "payload": {
@@ -3634,6 +4204,66 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1564538",
+  "name": "GRANITE REAL ESTATE INVESTMENT TRUST  (GRP-UN)",
+  "payload": {
+   "dedup_key": "cik:1564538",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1564538",
+    "city_state": "Toronto, A6",
+    "state": "A6"
+   },
+   "identifiers": {
+    "cik": "1564538"
+   },
+   "name": "GRANITE REAL ESTATE INVESTMENT TRUST  (GRP-UN)",
+   "raw": {
+    "accession": "0001085146-22-001162",
+    "cik": "1564538",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1564538&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1566373",
+  "name": "Spring Bank Pharmaceuticals, Inc.",
+  "payload": {
+   "dedup_key": "cik:1566373",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1566373",
+    "city_state": "Hopkinton, MA",
+    "state": "MA"
+   },
+   "identifiers": {
+    "cik": "1566373"
+   },
+   "name": "Spring Bank Pharmaceuticals, Inc.",
+   "raw": {
+    "accession": "0001193125-16-784442",
+    "cik": "1566373",
+    "file_date": "2016-12-05",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1566373&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1574085",
   "name": "Ashford Hospitality Prime, Inc.  (BHR, BHR-PB, BHR-PD)",
   "payload": {
@@ -3720,6 +4350,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1577368&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1584425",
+  "name": "Tricon Residential Inc.",
+  "payload": {
+   "dedup_key": "cik:1584425",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1584425",
+    "city_state": "Toronto, A6",
+    "state": "A6"
+   },
+   "identifiers": {
+    "cik": "1584425"
+   },
+   "name": "Tricon Residential Inc.",
+   "raw": {
+    "accession": "0001085146-22-001173",
+    "cik": "1584425",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1584425&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -4118,6 +4778,96 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1626878",
+  "name": "XBiotech Inc.  (XBIT)",
+  "payload": {
+   "dedup_key": "cik:1626878",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1626878",
+    "city_state": "Austin, TX",
+    "state": "TX"
+   },
+   "identifiers": {
+    "cik": "1626878"
+   },
+   "name": "XBiotech Inc.  (XBIT)",
+   "raw": {
+    "accession": "0001171843-22-004392",
+    "cik": "1626878",
+    "file_date": "2022-06-16",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1626878&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1627272",
+  "name": "Osisko Gold Royalties LTD  (OR)",
+  "payload": {
+   "dedup_key": "cik:1627272",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1627272",
+    "city_state": "Montreal, A8",
+    "state": "A8"
+   },
+   "identifiers": {
+    "cik": "1627272"
+   },
+   "name": "Osisko Gold Royalties LTD  (OR)",
+   "raw": {
+    "accession": "0001085146-24-005576",
+    "cik": "1627272",
+    "file_date": "2024-11-13",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1627272&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1627281",
+  "name": "Cellectis S.A.  (CLLS)",
+  "payload": {
+   "dedup_key": "cik:1627281",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1627281",
+    "city_state": "Paris, Lle-de-france, I0",
+    "state": "I0"
+   },
+   "identifiers": {
+    "cik": "1627281"
+   },
+   "name": "Cellectis S.A.  (CLLS)",
+   "raw": {
+    "accession": "0001019056-22-000368",
+    "cik": "1627281",
+    "file_date": "2022-05-03",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1627281&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1628945",
   "name": "Cue Health Inc.  (HLTHQ)",
   "payload": {
@@ -4358,6 +5108,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1662253",
+  "name": "Tiberius Acquisition Corp",
+  "payload": {
+   "dedup_key": "cik:1662253",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1662253",
+    "city_state": "Metairie, LA",
+    "state": "LA"
+   },
+   "identifiers": {
+    "cik": "1662253"
+   },
+   "name": "Tiberius Acquisition Corp",
+   "raw": {
+    "accession": "0001193125-21-041353",
+    "cik": "1662253",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1662253&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1666175",
   "name": "Fortis Inc.  (FTS, FORFF, FRTSF, FTPSF, FTRSF)",
   "payload": {
@@ -4478,6 +5258,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1691936",
+  "name": "Andina Acquisition Corp. III  (SNAX, SNAXW)",
+  "payload": {
+   "dedup_key": "cik:1691936",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1691936",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1691936"
+   },
+   "name": "Andina Acquisition Corp. III  (SNAX, SNAXW)",
+   "raw": {
+    "accession": "0001193125-21-041336",
+    "cik": "1691936",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1691936&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1697478",
   "name": "Fortis Advisors, LLC",
   "payload": {
@@ -4504,6 +5314,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1697478&type=13F-HR"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1708688",
+  "name": "InflaRx N.V.  (IFRX)",
+  "payload": {
+   "dedup_key": "cik:1708688",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1708688",
+    "city_state": "Jena, 2M",
+    "state": "2M"
+   },
+   "identifiers": {
+    "cik": "1708688"
+   },
+   "name": "InflaRx N.V.  (IFRX)",
+   "raw": {
+    "accession": "0000950103-18-002054",
+    "cik": "1708688",
+    "file_date": "2018-02-14",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1708688&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -4538,6 +5378,66 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1716947",
+  "name": "Leisure Acquisition Corp.  (ENSC, ENSCW)",
+  "payload": {
+   "dedup_key": "cik:1716947",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1716947",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1716947"
+   },
+   "name": "Leisure Acquisition Corp.  (ENSC, ENSCW)",
+   "raw": {
+    "accession": "0001193125-21-041270",
+    "cik": "1716947",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1716947&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1718405",
+  "name": "HYCROFT MINING HOLDING CORP  (HYMC, HYMCL, HYMCW)",
+  "payload": {
+   "dedup_key": "cik:1718405",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1718405",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1718405"
+   },
+   "name": "HYCROFT MINING HOLDING CORP  (HYMC, HYMCL, HYMCW)",
+   "raw": {
+    "accession": "0001193125-21-041302",
+    "cik": "1718405",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1718405&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1719893",
   "name": "MTech Acquisition Corp",
   "payload": {
@@ -4564,6 +5464,66 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1719893&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1720025",
+  "name": "Allegro Merger Corp.",
+  "payload": {
+   "dedup_key": "cik:1720025",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1720025",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1720025"
+   },
+   "name": "Allegro Merger Corp.",
+   "raw": {
+    "accession": "0001193125-21-041475",
+    "cik": "1720025",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1720025&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1721386",
+  "name": "Landsea Homes Corp  (LSEA, LSEAW)",
+  "payload": {
+   "dedup_key": "cik:1721386",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1721386",
+    "city_state": "Newport Beach, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1721386"
+   },
+   "name": "Landsea Homes Corp  (LSEA, LSEAW)",
+   "raw": {
+    "accession": "0001193125-21-041286",
+    "cik": "1721386",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1721386&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -4662,6 +5622,66 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1736874",
+  "name": "HL Acquisitions Corp.",
+  "payload": {
+   "dedup_key": "cik:1736874",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1736874",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1736874"
+   },
+   "name": "HL Acquisitions Corp.",
+   "raw": {
+    "accession": "0001193125-21-041387",
+    "cik": "1736874",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1736874&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1738758",
+  "name": "GLORY STAR NEW MEDIA GROUP HOLDINGS Ltd  (CHR, GSMGW)",
+  "payload": {
+   "dedup_key": "cik:1738758",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1738758",
+    "city_state": "Chaoyang District, Beijing, F4",
+    "state": "F4"
+   },
+   "identifiers": {
+    "cik": "1738758"
+   },
+   "name": "GLORY STAR NEW MEDIA GROUP HOLDINGS Ltd  (CHR, GSMGW)",
+   "raw": {
+    "accession": "0001193125-21-041372",
+    "cik": "1738758",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1738758&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1740547",
   "name": "Urovant Sciences Ltd.",
   "payload": {
@@ -4718,6 +5738,66 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1745317&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1748621",
+  "name": "Alberton Acquisition Corp",
+  "payload": {
+   "dedup_key": "cik:1748621",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1748621",
+    "city_state": "Wanchai, K3",
+    "state": "K3"
+   },
+   "identifiers": {
+    "cik": "1748621"
+   },
+   "name": "Alberton Acquisition Corp",
+   "raw": {
+    "accession": "0001193125-21-041306",
+    "cik": "1748621",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1748621&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1748797",
+  "name": "BRP Inc.  (DOOO)",
+  "payload": {
+   "dedup_key": "cik:1748797",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1748797",
+    "city_state": "Valcourt, A8",
+    "state": "A8"
+   },
+   "identifiers": {
+    "cik": "1748797"
+   },
+   "name": "BRP Inc.  (DOOO)",
+   "raw": {
+    "accession": "0001193125-21-041344",
+    "cik": "1748797",
+    "file_date": "2021-02-12",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1748797&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -4816,6 +5896,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1758478",
+  "name": "Calidi Biotherapeutics (Nevada), Inc.",
+  "payload": {
+   "dedup_key": "cik:1758478",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1758478",
+    "city_state": "San Diego, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1758478"
+   },
+   "name": "Calidi Biotherapeutics (Nevada), Inc.",
+   "raw": {
+    "accession": "0001085146-24-000948",
+    "cik": "1758478",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1758478&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1760173",
   "name": "RTI Surgical Holdings, Inc.",
   "payload": {
@@ -4872,6 +5982,66 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1765159&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1768910",
+  "name": "Greencity Acquisition Corp",
+  "payload": {
+   "dedup_key": "cik:1768910",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1768910",
+    "city_state": "Pudong District, F4",
+    "state": "F4"
+   },
+   "identifiers": {
+    "cik": "1768910"
+   },
+   "name": "Greencity Acquisition Corp",
+   "raw": {
+    "accession": "0001085146-23-000663",
+    "cik": "1768910",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1768910&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1769624",
+  "name": "AGBA Group Holding Ltd.  (AGBA, AGBAW)",
+  "payload": {
+   "dedup_key": "cik:1769624",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1769624",
+    "city_state": "Tsimshatsui East, Kowloon, K3",
+    "state": "K3"
+   },
+   "identifiers": {
+    "cik": "1769624"
+   },
+   "name": "AGBA Group Holding Ltd.  (AGBA, AGBAW)",
+   "raw": {
+    "accession": "0001085146-23-000641",
+    "cik": "1769624",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1769624&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -5060,6 +6230,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1802450",
+  "name": "MSP Recovery, Inc.  (LIFW, LIFWW, LIFWZ)",
+  "payload": {
+   "dedup_key": "cik:1802450",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1802450",
+    "city_state": "Coral Gables, FL",
+    "state": "FL"
+   },
+   "identifiers": {
+    "cik": "1802450"
+   },
+   "name": "MSP Recovery, Inc.  (LIFW, LIFWW, LIFWZ)",
+   "raw": {
+    "accession": "0001085146-23-000664",
+    "cik": "1802450",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1802450&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1802647",
   "name": "Orion Portfolio Solutions, LLC",
   "payload": {
@@ -5214,6 +6414,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1815526",
+  "name": "Burgundy Technology Acquisition Corp",
+  "payload": {
+   "dedup_key": "cik:1815526",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1815526",
+    "city_state": "Grand Cayman, E9",
+    "state": "E9"
+   },
+   "identifiers": {
+    "cik": "1815526"
+   },
+   "name": "Burgundy Technology Acquisition Corp",
+   "raw": {
+    "accession": "0001085146-22-001155",
+    "cik": "1815526",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1815526&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1818212",
   "name": "Cohn Robbins Holdings Corp.",
   "payload": {
@@ -5240,6 +6470,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1818212&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1818221",
+  "name": "Equity Distribution Acquisition Corp.",
+  "payload": {
+   "dedup_key": "cik:1818221",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1818221",
+    "city_state": "Chicago, IL",
+    "state": "IL"
+   },
+   "identifiers": {
+    "cik": "1818221"
+   },
+   "name": "Equity Distribution Acquisition Corp.",
+   "raw": {
+    "accession": "0001085146-22-001159",
+    "cik": "1818221",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1818221&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -5394,6 +6654,66 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1822145",
+  "name": "Presto Automation Inc.  (PRST, PRSTW)",
+  "payload": {
+   "dedup_key": "cik:1822145",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1822145",
+    "city_state": "Greenwich, CT",
+    "state": "CT"
+   },
+   "identifiers": {
+    "cik": "1822145"
+   },
+   "name": "Presto Automation Inc.  (PRST, PRSTW)",
+   "raw": {
+    "accession": "0001085146-23-000678",
+    "cik": "1822145",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822145&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1822219",
+  "name": "FirstMark Horizon Acquisition Corp.",
+  "payload": {
+   "dedup_key": "cik:1822219",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1822219",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1822219"
+   },
+   "name": "FirstMark Horizon Acquisition Corp.",
+   "raw": {
+    "accession": "0001085146-22-001161",
+    "cik": "1822219",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822219&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1822966",
   "name": "SPRING VALLEY ACQUISITION CORP.  (SMR, SMR-WT)",
   "payload": {
@@ -5420,6 +6740,66 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1822966&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1828248",
+  "name": "Churchill Capital Corp VII",
+  "payload": {
+   "dedup_key": "cik:1828248",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1828248",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1828248"
+   },
+   "name": "Churchill Capital Corp VII",
+   "raw": {
+    "accession": "0001085146-22-001156",
+    "cik": "1828248",
+    "file_date": "2022-02-15",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1828248&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1828478",
+  "name": "SVF Investment Corp.",
+  "payload": {
+   "dedup_key": "cik:1828478",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1828478",
+    "city_state": "San Carlos, CA",
+    "state": "CA"
+   },
+   "identifiers": {
+    "cik": "1828478"
+   },
+   "name": "SVF Investment Corp.",
+   "raw": {
+    "accession": "0001085146-24-000931",
+    "cik": "1828478",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1828478&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -5668,6 +7048,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1838162",
+  "name": "Slam Corp.  (SLAM, SLAMF, SLAMU, SLAMW, SLMUF, SLMWF)",
+  "payload": {
+   "dedup_key": "cik:1838162",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1838162",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1838162"
+   },
+   "name": "Slam Corp.  (SLAM, SLAMF, SLAMU, SLAMW, SLMUF, SLMWF)",
+   "raw": {
+    "accession": "0001085146-24-000933",
+    "cik": "1838162",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1838162&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1839360",
   "name": "FaZe Holdings Inc.",
   "payload": {
@@ -5694,6 +7104,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1839360&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1840225",
+  "name": "Fusion Acquisition Corp. II",
+  "payload": {
+   "dedup_key": "cik:1840225",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1840225",
+    "city_state": "New York, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1840225"
+   },
+   "name": "Fusion Acquisition Corp. II",
+   "raw": {
+    "accession": "0001085146-24-000943",
+    "cik": "1840225",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1840225&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -5882,6 +7322,126 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:1855485",
+  "name": "First Light Acquisition Group, Inc.  (CLDI, CLDI-WT)",
+  "payload": {
+   "dedup_key": "cik:1855485",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1855485",
+    "city_state": "Reston, VA",
+    "state": "VA"
+   },
+   "identifiers": {
+    "cik": "1855485"
+   },
+   "name": "First Light Acquisition Group, Inc.  (CLDI, CLDI-WT)",
+   "raw": {
+    "accession": "0001085146-23-000659",
+    "cik": "1855485",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1855485&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1856242",
+  "name": "C5 Acquisition Corp",
+  "payload": {
+   "dedup_key": "cik:1856242",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1856242",
+    "city_state": "Washington, DC",
+    "state": "DC"
+   },
+   "identifiers": {
+    "cik": "1856242"
+   },
+   "name": "C5 Acquisition Corp",
+   "raw": {
+    "accession": "0001085146-24-000938",
+    "cik": "1856242",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1856242&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1856948",
+  "name": "Chenghe Acquisition Co.",
+  "payload": {
+   "dedup_key": "cik:1856948",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1856948",
+    "city_state": "Central, K3",
+    "state": "K3"
+   },
+   "identifiers": {
+    "cik": "1856948"
+   },
+   "name": "Chenghe Acquisition Co.",
+   "raw": {
+    "accession": "0001085146-24-000942",
+    "cik": "1856948",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1856948&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1857855",
+  "name": "Finnovate Acquisition Corp.  (FNVT, FNVTU, FNVTW)",
+  "payload": {
+   "dedup_key": "cik:1857855",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1857855",
+    "city_state": "Wilmington, DE",
+    "state": "DE"
+   },
+   "identifiers": {
+    "cik": "1857855"
+   },
+   "name": "Finnovate Acquisition Corp.  (FNVT, FNVTU, FNVTW)",
+   "raw": {
+    "accession": "0001085146-23-000657",
+    "cik": "1857855",
+    "file_date": "2023-02-06",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1857855&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:1859434",
   "name": "EMFO, LLC",
   "payload": {
@@ -5912,6 +7472,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1859434&type=13F-HR"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1863428",
+  "name": "Seaport Calibre Materials Acquisition Corp.",
+  "payload": {
+   "dedup_key": "cik:1863428",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1863428",
+    "city_state": "New York City, NY",
+    "state": "NY"
+   },
+   "identifiers": {
+    "cik": "1863428"
+   },
+   "name": "Seaport Calibre Materials Acquisition Corp.",
+   "raw": {
+    "accession": "0001085146-24-000951",
+    "cik": "1863428",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1863428&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -6036,6 +7626,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1894203&type=13F-HR"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:1903392",
+  "name": "ClimateRock  (CLRC, CLRCR, CLRCU, CLRCW)",
+  "payload": {
+   "dedup_key": "cik:1903392",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "1903392",
+    "city_state": "London, X0",
+    "state": "X0"
+   },
+   "identifiers": {
+    "cik": "1903392"
+   },
+   "name": "ClimateRock  (CLRC, CLRCR, CLRCU, CLRCW)",
+   "raw": {
+    "accession": "0001085146-24-000950",
+    "cik": "1903392",
+    "file_date": "2024-02-09",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=1903392&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
@@ -7168,6 +8788,36 @@
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
  {
+  "dedup_key": "cik:764579",
+  "name": "CAS MEDICAL SYSTEMS INC",
+  "payload": {
+   "dedup_key": "cik:764579",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "764579",
+    "city_state": "Branford, CT",
+    "state": "CT"
+   },
+   "identifiers": {
+    "cik": "764579"
+   },
+   "name": "CAS MEDICAL SYSTEMS INC",
+   "raw": {
+    "accession": "0001019056-18-000343",
+    "cik": "764579",
+    "file_date": "2018-02-14",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=764579&type=SC 13G"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
   "dedup_key": "cik:77877",
   "name": "PDC ENERGY, INC.",
   "payload": {
@@ -7284,6 +8934,36 @@
    },
    "source_class": "SEC EDGAR (13F / SC / Form D filings)",
    "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=818033&type=SC 13D"
+  },
+  "source_class": "SEC EDGAR (13F / SC / Form D filings)"
+ },
+ {
+  "dedup_key": "cik:826326",
+  "name": "ARC Group Worldwide, Inc.",
+  "payload": {
+   "dedup_key": "cik:826326",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "SEC EDGAR (13F / SC / Form D filings)"
+   ],
+   "hints": {
+    "cik": "826326",
+    "city_state": "Longmont, CO",
+    "state": "CO"
+   },
+   "identifiers": {
+    "cik": "826326"
+   },
+   "name": "ARC Group Worldwide, Inc.",
+   "raw": {
+    "accession": "0001325447-19-000035",
+    "cik": "826326",
+    "file_date": "2019-09-04",
+    "matched_form": "SC 13G",
+    "period_ending": null
+   },
+   "source_class": "SEC EDGAR (13F / SC / Form D filings)",
+   "source_url": "https://www.sec.gov/cgi-bin/browse-edgar?action=getcompany&CIK=826326&type=SC 13G"
   },
   "source_class": "SEC EDGAR (13F / SC / Form D filings)"
  },
