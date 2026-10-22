@@ -18050,6 +18050,33 @@
   "source_class": "News / Press (GDELT)"
  },
  {
+  "dedup_key": "domain:dealstreetasia.com",
+  "name": "Raffles Family Office",
+  "payload": {
+   "dedup_key": "domain:dealstreetasia.com",
+   "discovered_at": "2026-10-22",
+   "discovery_sources": [
+    "News / Press (GDELT)"
+   ],
+   "hints": {
+    "from_headline": "Raffles Family Office plans to invest in Rwanda"
+   },
+   "identifiers": {
+    "domain": "dealstreetasia.com"
+   },
+   "name": "Raffles Family Office",
+   "raw": {
+    "article_title": "Raffles Family Office plans to invest in Rwanda",
+    "domain": "dealstreetasia.com",
+    "language": "English",
+    "seendate": "20261022T081500Z"
+   },
+   "source_class": "News / Press (GDELT)",
+   "source_url": "https://www.dealstreetasia.com/stories/raffles-family-office-plans-to-invest-in-rwanda-498864"
+  },
+  "source_class": "News / Press (GDELT)"
+ },
+ {
   "dedup_key": "domain:economictimes.indiatimes.com",
   "name": "India Family Office",
   "payload": {
