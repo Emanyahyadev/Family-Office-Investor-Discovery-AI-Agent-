@@ -49315,6 +49315,31 @@
   "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
  {
+  "dedup_key": "qid:q141878320",
+  "name": "Sapians",
+  "payload": {
+   "dedup_key": "qid:q141878320",
+   "discovered_at": "2026-10-26",
+   "discovery_sources": [
+    "Curated directory / reference (Wikipedia, associations)"
+   ],
+   "hints": {
+    "country": "France"
+   },
+   "identifiers": {
+    "qid": "Q141878320"
+   },
+   "name": "Sapians",
+   "raw": {
+    "qid": "Q141878320",
+    "via": "wikidata"
+   },
+   "source_class": "Curated directory / reference (Wikipedia, associations)",
+   "source_url": "http://www.wikidata.org/entity/Q141878320"
+  },
+  "source_class": "Curated directory / reference (Wikipedia, associations)"
+ },
+ {
   "dedup_key": "qid:q29954162",
   "name": "Bancard Group",
   "payload": {
