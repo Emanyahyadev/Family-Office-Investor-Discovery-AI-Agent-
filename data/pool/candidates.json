@@ -21746,6 +21746,30 @@
   "source_class": "Web search (Serper)"
  },
  {
+  "dedup_key": "name:adgm single family office|geo:?",
+  "name": "ADGM single Family Office",
+  "payload": {
+   "dedup_key": "name:adgm single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "ADGM single Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:advanced planning family office|geo:?",
   "name": "Advanced Planning Family Office",
   "payload": {
@@ -23436,6 +23460,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:andover family office|geo:?",
+  "name": "Andover Family Office",
+  "payload": {
+   "dedup_key": "name:andover family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Thompson Family Office"
+   },
+   "identifiers": {},
+   "name": "Andover Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Thompson Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.thompsonfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:andrew hagger launches family office|geo:?",
   "name": "Andrew Hagger launches Family Office",
   "payload": {
@@ -24389,6 +24437,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:asia defines family office|geo:?",
+  "name": "Asia defines the Family Office",
+  "payload": {
+   "dedup_key": "name:asia defines family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Asia defines the Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:asian family office|geo:?",
   "name": "Asian Family Office",
   "payload": {
@@ -24434,6 +24506,30 @@
    "source_url": "https://somerspartnership.com/single-family-offices-arent-for-everyonejust-ask-a-good-tailor"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:ask four people in four cities what a family office|geo:?",
+  "name": "Ask four people in four cities what a Family Office",
+  "payload": {
+   "dedup_key": "name:ask four people in four cities what a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Ask four people in four cities what a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:ask your agent what fiduciary family office|geo:?",
@@ -24671,6 +24767,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:at dacm family office|geo:?",
+  "name": "At DACM Family Office",
+  "payload": {
+   "dedup_key": "name:at dacm family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Cone Marshall and Delta Asia Financial Group Join Forces to Launch Delta Asia Cone Marshall (DACM) Family Office Advisory - Interfax Newswire"
+   },
+   "identifiers": {},
+   "name": "At DACM Family Office",
+   "raw": {
+    "published": "2024-11-01T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Cone Marshall and Delta Asia Financial Group Join Forces to Launch Delta Asia Cone Marshall (DACM) Family Office Advisory - Interfax Newswire"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.businesswirechina.com/en/news/58165.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:at devere family office|geo:?",
   "name": "At deVere Family Office",
   "payload": {
@@ -24715,6 +24835,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://fractional-familyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:at haran family office|geo:?",
+  "name": "At Haran Family Office",
+  "payload": {
+   "dedup_key": "name:at haran family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Haran Family Office"
+   },
+   "identifiers": {},
+   "name": "At Haran Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Haran Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://haranfamilyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -25694,6 +25838,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:beach registered investment advisor tarbox family office|geo:?",
+  "name": "Beach Registered Investment Advisor Tarbox Family Office",
+  "payload": {
+   "dedup_key": "name:beach registered investment advisor tarbox family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Tarbox Family Office | Newport Beach Registered Investment Advisor"
+   },
+   "identifiers": {},
+   "name": "Beach Registered Investment Advisor Tarbox Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Tarbox Family Office | Newport Beach Registered Investment Advisor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://tarbox.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:because a family office|geo:?",
   "name": "Because a Family Office",
   "payload": {
@@ -26170,6 +26338,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:besides his own family office|geo:?",
+  "name": "Besides his own Family Office",
+  "payload": {
+   "dedup_key": "name:besides his own family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Michael Felman | ACG New York"
+   },
+   "identifiers": {},
+   "name": "Besides his own Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Michael Felman | ACG New York"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.acg.org/nyc/speakers/michael-felman"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:bespoke family office|geo:?",
   "name": "Bespoke Family Office",
   "payload": {
@@ -26261,6 +26453,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://beverly-capital.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:bezos expeditions is a single family office|geo:?",
+  "name": "Bezos Expeditions is a single Family Office",
+  "payload": {
+   "dedup_key": "name:bezos expeditions is a single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "450+ Financial Services Single Family Offices in the World"
+   },
+   "identifiers": {},
+   "name": "Bezos Expeditions is a single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "450+ Financial Services Single Family Offices in the World"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://allfamilyoffices.com/databases/financial-services-single-family-offices"
   },
   "source_class": "Web search (EXA)"
  },
@@ -26642,6 +26858,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:bloomberg billionaires index their family office|geo:?",
+  "name": "Bloomberg Billionaires Index. Their Family Office",
+  "payload": {
+   "dedup_key": "name:bloomberg billionaires index their family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": ""
+   },
+   "identifiers": {},
+   "name": "Bloomberg Billionaires Index. Their Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" established new firm",
+    "title": ""
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fa-mag.com/news/larry-fink-s-private-asset-bet-powers-global-family-office-boom-85865.html?print="
   },
   "source_class": "Web search (EXA)"
  },
@@ -27498,6 +27738,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.privatewealthdaily.com/story/integrated-partners-launches-sigil-family-office-with-hired-team"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:caelius what counts as a family office|geo:?",
+  "name": "Caelius What Counts as a Family Office",
+  "payload": {
+   "dedup_key": "name:caelius what counts as a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Caelius What Counts as a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -28429,6 +28693,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.cavfo.com/about"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:cayman islands with acquisition of fortcay family office|geo:?",
+  "name": "Cayman Islands with Acquisition of FortCay Family Office",
+  "payload": {
+   "dedup_key": "name:cayman islands with acquisition of fortcay family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Corient Expands to Cayman Islands with Acquisition of FortCay Family Office Advisory | AFP.com"
+   },
+   "identifiers": {},
+   "name": "Cayman Islands with Acquisition of FortCay Family Office",
+   "raw": {
+    "published": "2026-09-23T13:15:01.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Corient Expands to Cayman Islands with Acquisition of FortCay Family Office Advisory | AFP.com"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.afp.com/en/infos/corient-expands-cayman-islands-acquisition-fortcay-family-office-advisory"
   },
   "source_class": "Web search (EXA)"
  },
@@ -30311,6 +30599,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:congressional research service note on family office|geo:?",
+  "name": "Congressional Research Service note on Family Office",
+  "payload": {
+   "dedup_key": "name:congressional research service note on family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Congressional Research Service note on Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:connecticut based family office|geo:?",
   "name": "Connecticut-based Family Office",
   "payload": {
@@ -30906,6 +31218,54 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:council he is a frequent speaker at family office|geo:?",
+  "name": "Council. He is a frequent speaker at Family Office",
+  "payload": {
+   "dedup_key": "name:council he is a frequent speaker at family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Michael Felman | ACG New York"
+   },
+   "identifiers": {},
+   "name": "Council. He is a frequent speaker at Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Michael Felman | ACG New York"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.acg.org/nyc/speakers/michael-felman"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:counts as a family office|geo:?",
+  "name": "Counts as a Family Office",
+  "payload": {
+   "dedup_key": "name:counts as a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Counts as a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:covepoint is a family office|geo:?",
   "name": "Covepoint is a Family Office",
   "payload": {
@@ -31306,6 +31666,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://cfb.unisg.ch/fileadmin/user_upload/HSG_ROOT/Institut_CFB/Forschung/Hauptforschungsgebiete/Governance_in_Familienunternehmen/2021_CS_White_Paper_The_Way_Forward_for_Family_Offices_englisch.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:dacm family office|geo:?",
+  "name": "DACM Family Office",
+  "payload": {
+   "dedup_key": "name:dacm family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Cone Marshall and Delta Asia Financial Group Join Forces to Launch Delta Asia Cone Marshall (DACM) Family Office Advisory - Interfax Newswire"
+   },
+   "identifiers": {},
+   "name": "DACM Family Office",
+   "raw": {
+    "published": "2024-11-01T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Cone Marshall and Delta Asia Financial Group Join Forces to Launch Delta Asia Cone Marshall (DACM) Family Office Advisory - Interfax Newswire"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.businesswirechina.com/en/news/58165.html"
   },
   "source_class": "Web search (EXA)"
  },
@@ -31853,6 +32237,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:defines family office|geo:?",
+  "name": "defines the Family Office",
+  "payload": {
+   "dedup_key": "name:defines family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "defines the Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:defining family office|geo:?",
   "name": "Defining the Family Office",
   "payload": {
@@ -31948,6 +32356,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:del vecchio family office|geo:?",
+  "name": "Del Vecchio Family Office",
+  "payload": {
+   "dedup_key": "name:del vecchio family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "450+ Financial Services Single Family Offices in the World"
+   },
+   "identifiers": {},
+   "name": "Del Vecchio Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "450+ Financial Services Single Family Offices in the World"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://allfamilyoffices.com/databases/financial-services-single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:deliberately number of family office|geo:?",
   "name": "deliberately limited number of Family Office",
   "payload": {
@@ -32016,6 +32448,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://venturemage.com/family-office-investors"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:delta asia cone marshall family office|geo:?",
+  "name": "Delta Asia Cone Marshall Family Office",
+  "payload": {
+   "dedup_key": "name:delta asia cone marshall family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Cone Marshall and Delta Asia Financial Group Join Forces to Launch Delta Asia Cone Marshall (DACM) Family Office Advisory - Interfax Newswire"
+   },
+   "identifiers": {},
+   "name": "Delta Asia Cone Marshall Family Office",
+   "raw": {
+    "published": "2024-11-01T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Cone Marshall and Delta Asia Financial Group Join Forces to Launch Delta Asia Cone Marshall (DACM) Family Office Advisory - Interfax Newswire"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.businesswirechina.com/en/news/58165.html"
   },
   "source_class": "Web search (EXA)"
  },
@@ -34898,6 +35354,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:european union a family office|geo:?",
+  "name": "European Union. A Family Office",
+  "payload": {
+   "dedup_key": "name:european union a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "European Union. A Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:evaluating family office|geo:?",
   "name": "evaluating Family Office",
   "payload": {
@@ -36359,6 +36839,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:family office award a member of nyu stern family office|geo:?",
+  "name": "Family Office Award. A member of the NYU Stern Family Office",
+  "payload": {
+   "dedup_key": "name:family office award a member of nyu stern family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Michael Felman | ACG New York"
+   },
+   "identifiers": {},
+   "name": "Family Office Award. A member of the NYU Stern Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Michael Felman | ACG New York"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.acg.org/nyc/speakers/michael-felman"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:family office bdo family office|geo:?",
   "name": "Family Office - BDO Family Office",
   "payload": {
@@ -37735,6 +38239,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:financial centre replaced its old single family office|geo:?",
+  "name": "Financial Centre replaced its old single Family Office",
+  "payload": {
+   "dedup_key": "name:financial centre replaced its old single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Financial Centre replaced its old single Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:financial dynamics of family office|geo:?",
   "name": "financial dynamics of Family Office",
   "payload": {
@@ -38307,6 +38835,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:firm started as family office|geo:?",
+  "name": "firm started as the Family Office",
+  "payload": {
+   "dedup_key": "name:firm started as family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Investment Management - Oak Family Advisors"
+   },
+   "identifiers": {},
+   "name": "firm started as the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Investment Management - Oak Family Advisors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.ofallc.com/services/investment-management.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:firm to set up and manage a family office|geo:?",
   "name": "firm to set up and manage a Family Office",
   "payload": {
@@ -38422,6 +38974,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://valueaddvc.com/family-office-tracker"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:first is that a family office|geo:?",
+  "name": "first is that a Family Office",
+  "payload": {
+   "dedup_key": "name:first is that a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "first is that a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -38947,6 +39523,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://lennertz.com/en"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:forbes invest like a family office|geo:?",
+  "name": "Forbes - Invest Like A Family Office",
+  "payload": {
+   "dedup_key": "name:forbes invest like a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Matter Family Office | Ultra High Net Worth Family Office"
+   },
+   "identifiers": {},
+   "name": "Forbes - Invest Like A Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Matter Family Office | Ultra High Net Worth Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.matterfamilyoffice.com/matter-family-office-ultra-high-net-worth-family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -40236,6 +40836,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:gerval investimentos ltda is single family office|geo:?",
+  "name": "Gerval Investimentos Ltda is the single Family Office",
+  "payload": {
+   "dedup_key": "name:gerval investimentos ltda is single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "450+ Financial Services Single Family Offices in the World"
+   },
+   "identifiers": {},
+   "name": "Gerval Investimentos Ltda is the single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "450+ Financial Services Single Family Offices in the World"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://allfamilyoffices.com/databases/financial-services-single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:get to know family office|geo:?",
   "name": "Get to Know Family Office",
   "payload": {
@@ -41398,6 +42022,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.trendingtopics.eu/hansmann-family-office-interview/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:haran family office|geo:?",
+  "name": "Haran Family Office",
+  "payload": {
+   "dedup_key": "name:haran family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Haran Family Office"
+   },
+   "identifiers": {},
+   "name": "Haran Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Haran Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://haranfamilyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -44444,6 +45092,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:initial conversations with family office|geo:?",
+  "name": "Initial conversations with Family Office",
+  "payload": {
+   "dedup_key": "name:initial conversations with family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "identifiers": {},
+   "name": "Initial conversations with Family Office",
+   "raw": {
+    "published": "2025-07-31T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.institutionalinvestor.com/index%2ephp/article/wood-nexts-julie-lawson-building-lean-single-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:initiatives and potential role of family office|geo:?",
   "name": "initiatives and the potential role of the Family Office",
   "payload": {
@@ -45421,6 +46093,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:ipgl is a single family office|geo:?",
+  "name": "IPGL is a single Family Office",
+  "payload": {
+   "dedup_key": "name:ipgl is a single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "450+ Financial Services Single Family Offices in the World"
+   },
+   "identifiers": {},
+   "name": "IPGL is a single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "450+ Financial Services Single Family Offices in the World"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://allfamilyoffices.com/databases/financial-services-single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:ipos for family office|geo:?",
   "name": "IPOs for Family Office",
   "payload": {
@@ -45561,6 +46257,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://advisors.ubs.com/mediahandler/media/704987/Building%20a%20Family%20Office%20to%20Steward%20Family%20Wealth%20and%20Values.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:it also offers family office|geo:?",
+  "name": "It also offers Family Office",
+  "payload": {
+   "dedup_key": "name:it also offers family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Former JP Morgan Advisors Leaders Launch $18.6 Billion RIA"
+   },
+   "identifiers": {},
+   "name": "It also offers Family Office",
+   "raw": {
+    "published": "2026-10-20T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Former JP Morgan Advisors Leaders Launch $18.6 Billion RIA"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.familywealthreport.com/article.php/-Former-JP-Morgan-Advisors-Leaders-Launch-%2418.6-Billion-RIA"
   },
   "source_class": "Web search (EXA)"
  },
@@ -46351,6 +47071,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:julie lawson on building a lean single family office|geo:?",
+  "name": "Julie Lawson on Building a Lean Single Family Office",
+  "payload": {
+   "dedup_key": "name:julie lawson on building a lean single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "identifiers": {},
+   "name": "Julie Lawson on Building a Lean Single Family Office",
+   "raw": {
+    "published": "2025-07-31T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.institutionalinvestor.com/index%2ephp/article/wood-nexts-julie-lawson-building-lean-single-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:just an idea for making family office|geo:?",
   "name": "Just an idea for making the Family Office",
   "payload": {
@@ -47015,6 +47759,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:korn das family office|geo:?",
+  "name": "Korn das Family Office",
+  "payload": {
+   "dedup_key": "name:korn das family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "UV Unternehmervermögen startet als Family Office komplett"
+   },
+   "identifiers": {},
+   "name": "Korn das Family Office",
+   "raw": {
+    "published": "2026-07-28T14:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "UV Unternehmervermögen startet als Family Office komplett"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.private-banking-magazin.de/uv-unternehmervermoegen-family-office-huber-richter/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:kpmg and a family office|geo:?",
   "name": "KPMG and a Family Office",
   "payload": {
@@ -47182,6 +47950,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:larry fink s private asset bet powers global family office|geo:?",
+  "name": "Larry Fink's Private Asset Bet Powers Global Family Office",
+  "payload": {
+   "dedup_key": "name:larry fink s private asset bet powers global family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": ""
+   },
+   "identifiers": {},
+   "name": "Larry Fink's Private Asset Bet Powers Global Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" established new firm",
+    "title": ""
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fa-mag.com/news/larry-fink-s-private-asset-bet-powers-global-family-office-boom-85865.html?print="
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:las family office|geo:?",
   "name": "Las Family Office",
   "payload": {
@@ -47297,6 +48089,54 @@
    "source_url": "https://www.linkedin.com/posts/laviniaborea_suddenly-its-a-family-office-world-activity-7458831064803729408-wCAl"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:lawson is one of our five nominees for family office|geo:?",
+  "name": "Lawson is one of our five nominees for the Family Office",
+  "payload": {
+   "dedup_key": "name:lawson is one of our five nominees for family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "identifiers": {},
+   "name": "Lawson is one of our five nominees for the Family Office",
+   "raw": {
+    "published": "2025-07-31T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.institutionalinvestor.com/index%2ephp/article/wood-nexts-julie-lawson-building-lean-single-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:lawson said that wood wants family office|geo:?",
+  "name": "Lawson said that Wood wants the Family Office",
+  "payload": {
+   "dedup_key": "name:lawson said that wood wants family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "identifiers": {},
+   "name": "Lawson said that Wood wants the Family Office",
+   "raw": {
+    "published": "2025-07-31T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.institutionalinvestor.com/index%2ephp/article/wood-nexts-julie-lawson-building-lean-single-family-office"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:laying a strong foundation for family office|geo:?",
@@ -49248,6 +50088,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:maclellan family office|geo:?",
+  "name": "Maclellan Family Office",
+  "payload": {
+   "dedup_key": "name:maclellan family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Thompson Family Office"
+   },
+   "identifiers": {},
+   "name": "Maclellan Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Thompson Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.thompsonfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:macy miller family office|geo:?",
   "name": "Macy Miller Family Office",
   "payload": {
@@ -49626,6 +50490,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:management could complete its transition to a family office|geo:?",
+  "name": "Management could complete its transition to a Family Office",
+  "payload": {
+   "dedup_key": "name:management could complete its transition to a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Management could complete its transition to a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -51768,6 +52656,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:multi family office|geo:?",
+  "name": "Multi- Family Office",
+  "payload": {
+   "dedup_key": "name:multi family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Understanding multi-family offices: A complete guide"
+   },
+   "identifiers": {},
+   "name": "Multi- Family Office",
+   "raw": {
+    "published": "2026-06-02T00:00:00.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Understanding multi-family offices: A complete guide"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://aleta.io/knowledge-hub/multi-family-offices-a-complete-guide"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:multi family vs single family office|geo:?",
   "name": "Multi-family vs. single Family Office",
   "payload": {
@@ -52605,6 +53517,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:nik storonsky single family office|geo:?",
+  "name": "Nik Storonsky Single Family Office",
+  "payload": {
+   "dedup_key": "name:nik storonsky single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Nik Storonsky Single Family Office Launched in London - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Nik Storonsky Single Family Office",
+   "raw": {
+    "published": "2021-11-23T08:37:20.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Nik Storonsky Single Family Office Launched in London - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/blog/nik-storonsky-single-family-office-launched-in-london/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:nikhil led family office|geo:?",
   "name": "Nikhil led the Family Office",
   "payload": {
@@ -52939,6 +53875,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:not define family office|geo:?",
+  "name": "not define the Family Office",
+  "payload": {
+   "dedup_key": "name:not define family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "not define the Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:not every startup is a fit for family office|geo:?",
   "name": "Not every startup is a fit for Family Office",
   "payload": {
@@ -53125,6 +54085,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.openvc.app/investor-lists/family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:nothing in that says what a family office|geo:?",
+  "name": "Nothing in that says what a Family Office",
+  "payload": {
+   "dedup_key": "name:nothing in that says what a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Nothing in that says what a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -53626,6 +54610,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://linkedin.com/company/ogen-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:olayan group is a single family office|geo:?",
+  "name": "Olayan Group is a single Family Office",
+  "payload": {
+   "dedup_key": "name:olayan group is a single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "450+ Financial Services Single Family Offices in the World"
+   },
+   "identifiers": {},
+   "name": "Olayan Group is a single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "450+ Financial Services Single Family Offices in the World"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://allfamilyoffices.com/databases/financial-services-single-family-offices"
   },
   "source_class": "Web search (EXA)"
  },
@@ -55939,6 +56947,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:practical response is to stop treating family office|geo:?",
+  "name": "practical response is to stop treating Family Office",
+  "payload": {
+   "dedup_key": "name:practical response is to stop treating family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "practical response is to stop treating Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:praxis rock flying tiger capital is a family office|geo:?",
   "name": "Praxis Rock Flying Tiger Capital is a Family Office",
   "payload": {
@@ -57049,6 +58081,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.pwc.ch/en/services/private-wealth/family-office.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:qatar s qfc single family office|geo:?",
+  "name": "Qatar's QFC single Family Office",
+  "payload": {
+   "dedup_key": "name:qatar s qfc single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Qatar's QFC single Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -58241,6 +59297,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:reynolds family office|geo:?",
+  "name": "Reynolds Family Office",
+  "payload": {
+   "dedup_key": "name:reynolds family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Thompson Family Office"
+   },
+   "identifiers": {},
+   "name": "Reynolds Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Thompson Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.thompsonfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:rhythmone family office|geo:?",
   "name": "RhythmOne. The Family Office",
   "payload": {
@@ -59121,6 +60201,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:royal group is a single family office|geo:?",
+  "name": "Royal Group LLC is a single Family Office",
+  "payload": {
+   "dedup_key": "name:royal group is a single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "450+ Financial Services Single Family Offices in the World"
+   },
+   "identifiers": {},
+   "name": "Royal Group LLC is a single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "450+ Financial Services Single Family Offices in the World"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://allfamilyoffices.com/databases/financial-services-single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:royal group|geo:?",
   "name": "Royal Group",
   "payload": {
@@ -59810,6 +60914,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.prnewswire.com/news-releases/elevation-point-announces-strategic-minority-investment-in-family-office-partners-a-2-5-billion-breakaway-team-302487029.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:sec s family office|geo:?",
+  "name": "SEC's Family Office",
+  "payload": {
+   "dedup_key": "name:sec s family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "SEC's Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -61334,6 +62462,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:singapore region s family office|geo:?",
+  "name": "Singapore the region's Family Office",
+  "payload": {
+   "dedup_key": "name:singapore region s family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "Singapore the region's Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:singapore single family office|geo:?",
   "name": "Singapore Single Family Office",
   "payload": {
@@ -61669,6 +62821,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:so a family office|geo:?",
+  "name": "So a Family Office",
+  "payload": {
+   "dedup_key": "name:so a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "So a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:so many people ask me what a family office|geo:?",
   "name": "So many people ask me what a Family Office",
   "payload": {
@@ -61760,6 +62936,30 @@
    "source_url": "https://tiger21.com/insights/single-family-office-vs-multi-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:so where america defines family office|geo:?",
+  "name": "So where America defines the Family Office",
+  "payload": {
+   "dedup_key": "name:so where america defines family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "So where America defines the Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:solomar is investment vehicle of family office|geo:?",
@@ -62827,6 +64027,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://sf-am.com/services/family-office-1"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:storonsky family office|geo:?",
+  "name": "Storonsky Family Office",
+  "payload": {
+   "dedup_key": "name:storonsky family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Nik Storonsky Single Family Office Launched in London - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Storonsky Family Office",
+   "raw": {
+    "published": "2021-11-23T08:37:20.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Nik Storonsky Single Family Office Launched in London - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/blog/nik-storonsky-single-family-office-launched-in-london/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -64089,6 +65313,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:there is no single legal definition of a family office|geo:?",
+  "name": "There is no single legal definition of a Family Office",
+  "payload": {
+   "dedup_key": "name:there is no single legal definition of a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "What Counts as a Family Office | Caelius"
+   },
+   "identifiers": {},
+   "name": "There is no single legal definition of a Family Office",
+   "raw": {
+    "published": "2026-04-01T04:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "What Counts as a Family Office | Caelius"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://caeliuscapital.com/perspectives/what-counts-as-a-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:there may be doubt about family office|geo:?",
   "name": "There may be doubt about the Family Office",
   "payload": {
@@ -64328,6 +65576,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:thompson family office|geo:?",
+  "name": "Thompson Family Office",
+  "payload": {
+   "dedup_key": "name:thompson family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Thompson Family Office"
+   },
+   "identifiers": {},
+   "name": "Thompson Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Thompson Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.thompsonfamilyoffice.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:those considering a family office|geo:?",
   "name": "Those considering a Family Office",
   "payload": {
@@ -64515,6 +65787,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.business-standard.com/article/companies/focus-financial-partners-launches-beryllus-capital-in-jv-with-hinduja-group-121032201169_1.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:through new uk single family office|geo:?",
+  "name": "Through the new UK single Family Office",
+  "payload": {
+   "dedup_key": "name:through new uk single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Nik Storonsky Single Family Office Launched in London - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Through the new UK single Family Office",
+   "raw": {
+    "published": "2021-11-23T08:37:20.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Nik Storonsky Single Family Office Launched in London - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/blog/nik-storonsky-single-family-office-launched-in-london/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -66864,6 +68160,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://kaufmanrossin.com/services/family-office-services/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:virginia based family office|geo:?",
+  "name": "Virginia-based Family Office",
+  "payload": {
+   "dedup_key": "name:virginia based family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Thompson Family Office"
+   },
+   "identifiers": {},
+   "name": "Virginia-based Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Thompson Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.thompsonfamilyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -70095,6 +71415,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:with aurum family office|geo:?",
+  "name": "With Aurum Family Office",
+  "payload": {
+   "dedup_key": "name:with aurum family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Two Paths, One Shared Conviction"
+   },
+   "identifiers": {},
+   "name": "With Aurum Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" established new firm",
+    "title": "Two Paths, One Shared Conviction"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://aurumfamilyoffice.com/about"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:with launch of our family office|geo:?",
   "name": "With the launch of our Family Office",
   "payload": {
@@ -70115,6 +71459,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://rscapital.com/2025/02/24/robertson-stephens-launches-family-office-for-select-clients/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:with new family office|geo:?",
+  "name": "With the new Family Office",
+  "payload": {
+   "dedup_key": "name:with new family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Billionaire Partners Founder Moves to Split Family Office - SWI swissinfo.ch"
+   },
+   "identifiers": {},
+   "name": "With the new Family Office",
+   "raw": {
+    "published": "2026-06-15T06:02:52.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Billionaire Partners Founder Moves to Split Family Office - SWI swissinfo.ch"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.swissinfo.ch/eng/billionaire-partners-founder-moves-to-split-family-office/91584396"
   },
   "source_class": "Web search (EXA)"
  },
@@ -70186,6 +71554,54 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.apollo.com/wealth/strategies/family-office-solutions"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:wood next is family office|geo:?",
+  "name": "Wood Next is the Family Office",
+  "payload": {
+   "dedup_key": "name:wood next is family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "identifiers": {},
+   "name": "Wood Next is the Family Office",
+   "raw": {
+    "published": "2025-07-31T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.institutionalinvestor.com/index%2ephp/article/wood-nexts-julie-lawson-building-lean-single-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:wood when he decided he wanted to set up a family office|geo:?",
+  "name": "Wood. When he decided he wanted to set up a Family Office",
+  "payload": {
+   "dedup_key": "name:wood when he decided he wanted to set up a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "identifiers": {},
+   "name": "Wood. When he decided he wanted to set up a Family Office",
+   "raw": {
+    "published": "2025-07-31T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Wood Next’s Julie Lawson on Building a Lean Single Family Office | Institutional Investor"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.institutionalinvestor.com/index%2ephp/article/wood-nexts-julie-lawson-building-lean-single-family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -70755,6 +72171,30 @@
    "source_url": "https://creativeplanning.com/insights/family-office/single-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:you can read more about different family office|geo:?",
+  "name": "You can read more about different Family Office",
+  "payload": {
+   "dedup_key": "name:you can read more about different family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Understanding multi-family offices: A complete guide"
+   },
+   "identifiers": {},
+   "name": "You can read more about different Family Office",
+   "raw": {
+    "published": "2026-06-02T00:00:00.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "Understanding multi-family offices: A complete guide"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://aleta.io/knowledge-hub/multi-family-offices-a-complete-guide"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:you can search for specific family office|geo:?",
