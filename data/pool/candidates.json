@@ -23034,6 +23034,54 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:aliko dangote family office|geo:?",
+  "name": "Aliko Dangote Family Office",
+  "payload": {
+   "dedup_key": "name:aliko dangote family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "identifiers": {},
+   "name": "Aliko Dangote Family Office",
+   "raw": {
+    "published": "2026-08-27T10:45:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.billionaires.africa/2026/08/27/aliko-dangote-family-office-to-launch-in-2027-as-investment-hub/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:aliko dangote s dubai family office|geo:?",
+  "name": "Aliko Dangote's Dubai Family Office",
+  "payload": {
+   "dedup_key": "name:aliko dangote s dubai family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "identifiers": {},
+   "name": "Aliko Dangote's Dubai Family Office",
+   "raw": {
+    "published": "2026-08-27T10:45:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.billionaires.africa/2026/08/27/aliko-dangote-family-office-to-launch-in-2027-as-investment-hub/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:all members of board of directors of family office|geo:?",
   "name": "All members of the board of directors of the Family Office",
   "payload": {
@@ -23225,6 +23273,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:although modern family office|geo:?",
+  "name": "Although the modern Family Office",
+  "payload": {
+   "dedup_key": "name:although modern family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "Although the modern Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:although technically not a family office|geo:?",
   "name": "Although technically not a Family Office",
   "payload": {
@@ -23363,6 +23435,30 @@
    "source_url": "https://altss.com/profile/the-new-york-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:altss tracks family office|geo:?",
+  "name": "Altss tracks Family Office",
+  "payload": {
+   "dedup_key": "name:altss tracks family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Altss tracks Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:altswire emerson family office|geo:?",
@@ -24701,6 +24797,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:asia pacific family office|geo:?",
+  "name": "Asia-Pacific Family Office",
+  "payload": {
+   "dedup_key": "name:asia pacific family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Asia-Pacific Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:asian family office|geo:?",
   "name": "Asian Family Office",
   "payload": {
@@ -25390,6 +25510,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:aum range for every family office|geo:?",
+  "name": "AuM range for every Family Office",
+  "payload": {
+   "dedup_key": "name:aum range for every family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Office Assets 2025: $4.67 Trillion Globally"
+   },
+   "identifiers": {},
+   "name": "AuM range for every Family Office",
+   "raw": {
+    "published": "2025-05-28T06:58:42.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Office Assets 2025: $4.67 Trillion Globally"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.withintelligence.com/insights/single-family-office-asset-pools-2025/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:aureon family office|geo:?",
   "name": "Aureon Family Office",
   "payload": {
@@ -26029,6 +26173,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:bank for global family office|geo:?",
+  "name": "Bank for Global Family Office",
+  "payload": {
+   "dedup_key": "name:bank for global family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "identifiers": {},
+   "name": "Bank for Global Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.northerntrust.com/united-states/what-we-do/wealth-management/products-services/global-family-office-services"
   },
   "source_class": "Web search (EXA)"
  },
@@ -29057,6 +29225,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:carling family office|geo:?",
+  "name": "Carling Family Office",
+  "payload": {
+   "dedup_key": "name:carling family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Carling family office launches BlackRidge Capital acquisition…"
+   },
+   "identifiers": {},
+   "name": "Carling Family Office",
+   "raw": {
+    "published": "2026-10-08T13:52:11.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Carling family office launches BlackRidge Capital acquisition…"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.privatewealthdaily.com/story/carling-family-office-launches-blackridge-capital-acquisition-finance"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:carroll capital is a family office|geo:?",
   "name": "Carroll Capital is a Family Office",
   "payload": {
@@ -30654,6 +30846,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:college of family offices and chairs family office|geo:?",
+  "name": "College of Family Offices and chairs the Family Office",
+  "payload": {
+   "dedup_key": "name:college of family offices and chairs family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Founder | Cooper Family Office"
+   },
+   "identifiers": {},
+   "name": "College of Family Offices and chairs the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Founder | Cooper Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cooperfamilyoffice.com/founder"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:combine and family office|geo:?",
   "name": "Combine and Family Office",
   "payload": {
@@ -31319,6 +31535,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:consultative virtual family office|geo:?",
+  "name": "Consultative Virtual Family Office",
+  "payload": {
+   "dedup_key": "name:consultative virtual family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": ""
+   },
+   "identifiers": {},
+   "name": "Consultative Virtual Family Office",
+   "raw": {
+    "published": "2026-04-17T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": ""
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.familywealthreport.com/printarticle.php?id=207458"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:consulting rias and financial industry a multi family office|geo:?",
   "name": "Consulting RIAs and Financial Industry A multi Family Office",
   "payload": {
@@ -31554,6 +31794,30 @@
    "source_url": "https://www.famcap.com/2020/09/family-office-founded-by-ex-footballer-backs-social-mobility-initiatives"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:cooper family office|geo:?",
+  "name": "Cooper Family Office",
+  "payload": {
+   "dedup_key": "name:cooper family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Founder | Cooper Family Office"
+   },
+   "identifiers": {},
+   "name": "Cooper Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Founder | Cooper Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cooperfamilyoffice.com/founder"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:coordinated team of family office|geo:?",
@@ -31890,6 +32154,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:create a single family office|geo:?",
+  "name": "create a single Family Office",
+  "payload": {
+   "dedup_key": "name:create a single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "create a single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:creating a family office|geo:?",
   "name": "Creating a Family Office",
   "payload": {
@@ -31934,6 +32222,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.privatebank.bankofamerica.com/solutions/family-office.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:creating right family office|geo:?",
+  "name": "Creating the right Family Office",
+  "payload": {
+   "dedup_key": "name:creating right family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "Creating the right Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -32433,6 +32745,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:dangote family office|geo:?",
+  "name": "Dangote Family Office",
+  "payload": {
+   "dedup_key": "name:dangote family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "identifiers": {},
+   "name": "Dangote Family Office",
+   "raw": {
+    "published": "2026-08-27T10:45:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.billionaires.africa/2026/08/27/aliko-dangote-family-office-to-launch-in-2027-as-investment-hub/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -33932,6 +34268,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:do criteria differ by family office|geo:?",
+  "name": "do criteria differ by Family Office",
+  "payload": {
+   "dedup_key": "name:do criteria differ by family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "do criteria differ by Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:do i contact single family office|geo:?",
   "name": "do I contact Single Family Office",
   "payload": {
@@ -34646,6 +35006,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:dubai based private family office|geo:?",
+  "name": "Dubai-based private Family Office",
+  "payload": {
+   "dedup_key": "name:dubai based private family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Carling family office launches BlackRidge Capital acquisition…"
+   },
+   "identifiers": {},
+   "name": "Dubai-based private Family Office",
+   "raw": {
+    "published": "2026-10-08T13:52:11.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Carling family office launches BlackRidge Capital acquisition…"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.privatewealthdaily.com/story/carling-family-office-launches-blackridge-capital-acquisition-finance"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:dubai family office|geo:?",
   "name": "Dubai Family Office",
   "payload": {
@@ -34714,6 +35098,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://advisors.ubs.com/mediahandler/media/704987/Building%20a%20Family%20Office%20to%20Steward%20Family%20Wealth%20and%20Values.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:duke university school of medicine family office|geo:?",
+  "name": "Duke University School of Medicine Family Office",
+  "payload": {
+   "dedup_key": "name:duke university school of medicine family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Founder | Cooper Family Office"
+   },
+   "identifiers": {},
+   "name": "Duke University School of Medicine Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Founder | Cooper Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.cooperfamilyoffice.com/founder"
   },
   "source_class": "Web search (EXA)"
  },
@@ -34833,6 +35241,54 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://cfb.unisg.ch/fileadmin/user_upload/HSG_ROOT/Institut_CFB/Forschung/Hauptforschungsgebiete/Governance_in_Familienunternehmen/2021_CS_White_Paper_The_Way_Forward_for_Family_Offices_englisch.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:each of our single family office|geo:?",
+  "name": "Each of our single Family Office",
+  "payload": {
+   "dedup_key": "name:each of our single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single family offices"
+   },
+   "identifiers": {},
+   "name": "Each of our single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single family offices"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.mercer.com/en-gb/solutions/investments/single-family-offices/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:east coast family office|geo:?",
+  "name": "East Coast Family Office",
+  "payload": {
+   "dedup_key": "name:east coast family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Rob Li | EAST COAST FAMILY OFFICE & HIGH NET WORTH CONFERENCE"
+   },
+   "identifiers": {},
+   "name": "East Coast Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Rob Li | EAST COAST FAMILY OFFICE & HIGH NET WORTH CONFERENCE"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://nyc-wealth.com/speakers/rob-li"
   },
   "source_class": "Web search (EXA)"
  },
@@ -35213,6 +35669,78 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.spm.family/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:elevate family office|geo:?",
+  "name": "Elevate Family Office",
+  "payload": {
+   "dedup_key": "name:elevate family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Elevate Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:elevation point backs new wealth manager family office|geo:?",
+  "name": "Elevation Point backs new wealth manager Family Office",
+  "payload": {
+   "dedup_key": "name:elevation point backs new wealth manager family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Elevation Point backs new wealth manager Family Office Partners"
+   },
+   "identifiers": {},
+   "name": "Elevation Point backs new wealth manager Family Office",
+   "raw": {
+    "published": "2025-06-23T09:05:53.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Elevation Point backs new wealth manager Family Office Partners"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.privatebankerinternational.com/news/elevation-point-backs-wealth-manager/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:elevation point has made an investment in family office|geo:?",
+  "name": "Elevation Point has made an investment in Family Office",
+  "payload": {
+   "dedup_key": "name:elevation point has made an investment in family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Elevation Point backs new wealth manager Family Office Partners"
+   },
+   "identifiers": {},
+   "name": "Elevation Point has made an investment in Family Office",
+   "raw": {
+    "published": "2025-06-23T09:05:53.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Elevation Point backs new wealth manager Family Office Partners"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.privatebankerinternational.com/news/elevation-point-backs-wealth-manager/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -35622,6 +36150,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:entrepreneurial families oceanus family office|geo:?",
+  "name": "Entrepreneurial Families Oceanus Family Office",
+  "payload": {
+   "dedup_key": "name:entrepreneurial families oceanus family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Oceanus Family Office | Strategic Family Office for Entrepreneurial Families"
+   },
+   "identifiers": {},
+   "name": "Entrepreneurial Families Oceanus Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Oceanus Family Office | Strategic Family Office for Entrepreneurial Families"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.oceanusfamilyoffice.com/en"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:entrepreneurial family office|geo:?",
   "name": "entrepreneurial Family Office",
   "payload": {
@@ -35785,6 +36337,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.pwc.com/gx/en/services/family-business/assets/global-family-office-deals-study-2025.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:equity is a self directed virtual family office|geo:?",
+  "name": "Equity is a self-directed virtual Family Office",
+  "payload": {
+   "dedup_key": "name:equity is a self directed virtual family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Home — Benson Family Private Equity"
+   },
+   "identifiers": {},
+   "name": "Equity is a self-directed virtual Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Home — Benson Family Private Equity"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://bensonequity.com/home"
   },
   "source_class": "Web search (EXA)"
  },
@@ -36381,6 +36957,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.privatebank.bankofamerica.com/articles/managing-your-family-legacy-through-a-family-office.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:every question in family office|geo:?",
+  "name": "Every question in the Family Office",
+  "payload": {
+   "dedup_key": "name:every question in family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Every question in the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
   },
   "source_class": "Web search (EXA)"
  },
@@ -37542,6 +38142,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:family capital launch of family office|geo:?",
+  "name": "Family Capital Launch of Family Office",
+  "payload": {
+   "dedup_key": "name:family capital launch of family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Launch of family office consultancy underlines the demand for better risk management in the sector | Family Capital"
+   },
+   "identifiers": {},
+   "name": "Family Capital Launch of Family Office",
+   "raw": {
+    "published": "2026-04-28T12:05:06.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Launch of family office consultancy underlines the demand for better risk management in the sector | Family Capital"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.famcap.com/2026/04/launch-of-family-office-consultancy-underlines-the-demand-for-better-risk-management-in-the-sector/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:family decides to establish a family office|geo:?",
   "name": "family decides to establish a Family Office",
   "payload": {
@@ -37960,6 +38584,30 @@
    "source_url": "https://www.familyofficegp.com"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:family office investment criteria framework family office|geo:?",
+  "name": "Family Office Investment Criteria Framework Family Office",
+  "payload": {
+   "dedup_key": "name:family office investment criteria framework family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Family Office Investment Criteria Framework Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:family office linkedin family office|geo:?",
@@ -39460,6 +40108,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:fintechzoom why j p conte launched his family office|geo:?",
+  "name": "FintechZoom Why J-P Conte Launched His Family Office",
+  "payload": {
+   "dedup_key": "name:fintechzoom why j p conte launched his family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Why J-P Conte Launched His Family Office  | FintechZoom"
+   },
+   "identifiers": {},
+   "name": "FintechZoom Why J-P Conte Launched His Family Office",
+   "raw": {
+    "published": "2026-10-23T10:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Why J-P Conte Launched His Family Office  | FintechZoom"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fintechzoom.com/economy/investments/j-p-conte-launched-his-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:fintrx family office|geo:?",
   "name": "FINTRX Family Office",
   "payload": {
@@ -39484,6 +40156,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:fintrx is a leading family office|geo:?",
+  "name": "FINTRX is a leading Family Office",
+  "payload": {
+   "dedup_key": "name:fintrx is a leading family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "FINTRX is a leading Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:firm acts as an extension of each client s family office|geo:?",
   "name": "firm acts as an extension of each client's Family Office",
   "payload": {
@@ -39504,6 +40200,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.webull.com/news/13963633782596608"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:firm also provides advanced family office|geo:?",
+  "name": "firm also provides advanced Family Office",
+  "payload": {
+   "dedup_key": "name:firm also provides advanced family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Elevation Point backs new wealth manager Family Office Partners"
+   },
+   "identifiers": {},
+   "name": "firm also provides advanced Family Office",
+   "raw": {
+    "published": "2025-06-23T09:05:53.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Elevation Point backs new wealth manager Family Office Partners"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.privatebankerinternational.com/news/elevation-point-backs-wealth-manager/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -40196,6 +40916,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://linkedin.com/company/blackpearl-family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:florida is a strategic hub for family office|geo:?",
+  "name": "Florida Is a Strategic Hub for Family Office",
+  "payload": {
+   "dedup_key": "name:florida is a strategic hub for family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Florida Is a Strategic Hub for Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
   },
   "source_class": "Web search (EXA)"
  },
@@ -41059,6 +41803,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:four primary family office|geo:?",
+  "name": "four primary Family Office",
+  "payload": {
+   "dedup_key": "name:four primary family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "four primary Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:fox family office|geo:?",
   "name": "FOX Family Office",
   "payload": {
@@ -41127,6 +41895,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://cressetcapital.com/family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:framework reflects altss analysis of family office|geo:?",
+  "name": "framework reflects Altss analysis of Family Office",
+  "payload": {
+   "dedup_key": "name:framework reflects altss analysis of family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "framework reflects Altss analysis of Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
   },
   "source_class": "Web search (EXA)"
  },
@@ -41318,6 +42110,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.bloomridge.com/wp-content/uploads/2024/05/UBS-Global-Family-Office-Report-2024.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:fry family office|geo:?",
+  "name": "Fry Family Office",
+  "payload": {
+   "dedup_key": "name:fry family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fry Family Office : An Independent Multi-Family Office"
+   },
+   "identifiers": {},
+   "name": "Fry Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Fry Family Office : An Independent Multi-Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fryfamilyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -41846,6 +42662,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:geographic location fundamentally shapes family office|geo:?",
+  "name": "Geographic location fundamentally shapes Family Office",
+  "payload": {
+   "dedup_key": "name:geographic location fundamentally shapes family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Geographic location fundamentally shapes Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:george soros s family office|geo:?",
   "name": "George Soros's Family Office",
   "payload": {
@@ -41964,6 +42804,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:get instant access to reliable family office|geo:?",
+  "name": "Get instant access to reliable Family Office",
+  "payload": {
+   "dedup_key": "name:get instant access to reliable family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Home - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Get instant access to reliable Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Home - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:get to know family office|geo:?",
   "name": "Get to Know Family Office",
   "payload": {
@@ -42054,6 +42918,54 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://altss.com/profile/gil-elbaz"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:gilbert cook family office|geo:?",
+  "name": "Gilbert & Cook Family Office",
+  "payload": {
+   "dedup_key": "name:gilbert cook family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Services | Gilbert & Cook"
+   },
+   "identifiers": {},
+   "name": "Gilbert & Cook Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Services | Gilbert & Cook"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.gilbertcook.com/solutions/sophisticated-solutions/family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:gilbert family office|geo:?",
+  "name": "Gilbert Family Office",
+  "payload": {
+   "dedup_key": "name:gilbert family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "ROCK Family Office"
+   },
+   "identifiers": {},
+   "name": "Gilbert Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "ROCK Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://rock.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -43702,6 +44614,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:highest level of data quality ever seen in a family office|geo:?",
+  "name": "Highest level of data quality ever seen in a Family Office",
+  "payload": {
+   "dedup_key": "name:highest level of data quality ever seen in a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "Highest level of data quality ever seen in a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:highly credentialed family office|geo:?",
   "name": "highly credentialed Family Office",
   "payload": {
@@ -43745,6 +44681,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://advisor.morganstanley.com/royal-banyan-wealth-management-group/documents/field/r/ro/royal-banyan-wealth-management-group/327391-2312587_PWM_SFO_Capabilities_Consideration_Plcmat_m2_L.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:hillman family pools its wealth through family office|geo:?",
+  "name": "Hillman family pools its wealth through the Family Office",
+  "payload": {
+   "dedup_key": "name:hillman family pools its wealth through family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "Hillman family pools its wealth through the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -44696,6 +45656,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:i bought us single family office|geo:?",
+  "name": "I bought the US single Family Office",
+  "payload": {
+   "dedup_key": "name:i bought us single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "I bought the US single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:i can deliver that family office|geo:?",
   "name": "I can deliver that Family Office",
   "payload": {
@@ -44954,6 +45938,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.sec.gov/rules-regulations/staff-guidance/division-investment-management-frequently-asked-questions/staff-responses-questions-about-family-office-rule"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:i purchased us real estate single family office|geo:?",
+  "name": "I purchased the U.S. real estate single Family Office",
+  "payload": {
+   "dedup_key": "name:i purchased us real estate single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "I purchased the U.S. real estate single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -45816,6 +46824,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:important are references in family office|geo:?",
+  "name": "important are references in the Family Office",
+  "payload": {
+   "dedup_key": "name:important are references in family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "important are references in the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:impromptu family office|geo:?",
   "name": "Impromptu Family Office",
   "payload": {
@@ -46149,6 +47181,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:in terms of our single vs multi family office|geo:?",
+  "name": "In the terms of our single vs. multi Family Office",
+  "payload": {
+   "dedup_key": "name:in terms of our single vs multi family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "identifiers": {},
+   "name": "In the terms of our single vs. multi Family Office",
+   "raw": {
+    "published": "2026-10-12T15:30:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familycapitalblog.com/posts/wertheimer-chanel-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:in utilizing a family office|geo:?",
   "name": "In utilizing a Family Office",
   "payload": {
@@ -46289,6 +47345,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.bettonfamily.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:independent multi family office fry family office|geo:?",
+  "name": "Independent Multi-Family Office Fry Family Office",
+  "payload": {
+   "dedup_key": "name:independent multi family office fry family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Fry Family Office : An Independent Multi-Family Office"
+   },
+   "identifiers": {},
+   "name": "Independent Multi-Family Office Fry Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Fry Family Office : An Independent Multi-Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fryfamilyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -47222,6 +48302,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:investment advisory family office|geo:?",
+  "name": "Investment Advisory Family Office",
+  "payload": {
+   "dedup_key": "name:investment advisory family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pitcairn: The Shared Single-Family Office®"
+   },
+   "identifiers": {},
+   "name": "Investment Advisory Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Pitcairn: The Shared Single-Family Office®"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.pitcairn.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:investment and family office|geo:?",
   "name": "Investment and Family Office",
   "payload": {
@@ -47986,6 +49090,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:it to a reputable firm with family office|geo:?",
+  "name": "IT to a reputable firm with Family Office",
+  "payload": {
+   "dedup_key": "name:it to a reputable firm with family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "So, you want to run a multi-family office? - The Globe and Mail"
+   },
+   "identifiers": {},
+   "name": "IT to a reputable firm with Family Office",
+   "raw": {
+    "published": "2025-09-02T07:40:00.000Z",
+    "query": "\"multi family office\" advisor",
+    "title": "So, you want to run a multi-family office? - The Globe and Mail"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.theglobeandmail.com/investing/globe-advisor/advisor-practice/article-so-you-want-to-run-a-multi-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:its founder established this family office|geo:?",
   "name": "Its founder established this Family Office",
   "payload": {
@@ -48078,6 +49206,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:j p conte launched his family office|geo:?",
+  "name": "J-P Conte Launched His Family Office",
+  "payload": {
+   "dedup_key": "name:j p conte launched his family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Why J-P Conte Launched His Family Office  | FintechZoom"
+   },
+   "identifiers": {},
+   "name": "J-P Conte Launched His Family Office",
+   "raw": {
+    "published": "2026-10-23T10:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Why J-P Conte Launched His Family Office  | FintechZoom"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fintechzoom.com/economy/investments/j-p-conte-launched-his-family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -48461,6 +49613,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:jp morgan private bank asia family office|geo:?",
+  "name": "J.P. Morgan Private Bank Asia Family Office",
+  "payload": {
+   "dedup_key": "name:jp morgan private bank asia family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "J.P. Morgan Private Bank Asia Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -49508,6 +50684,54 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:latin american allocation dual family office|geo:?",
+  "name": "Latin American allocation. Dual Family Office",
+  "payload": {
+   "dedup_key": "name:latin american allocation dual family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Latin American allocation. Dual Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:latin american family office|geo:?",
+  "name": "Latin American Family Office",
+  "payload": {
+   "dedup_key": "name:latin american family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Latin American Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:launch of boreal family office|geo:?",
   "name": "launch of Boreal Family Office",
   "payload": {
@@ -49532,6 +50756,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:launch of family office|geo:?",
+  "name": "Launch of Family Office",
+  "payload": {
+   "dedup_key": "name:launch of family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Launch of family office consultancy underlines the demand for better risk management in the sector | Family Capital"
+   },
+   "identifiers": {},
+   "name": "Launch of Family Office",
+   "raw": {
+    "published": "2026-04-28T12:05:06.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Launch of family office consultancy underlines the demand for better risk management in the sector | Family Capital"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.famcap.com/2026/04/launch-of-family-office-consultancy-underlines-the-demand-for-better-risk-management-in-the-sector/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:launches to redefine family office|geo:?",
   "name": "Launches to Redefine the Family Office",
   "payload": {
@@ -49552,6 +50800,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.businesswire.com/news/home/20250311297977/en/New-Wealth-Management-Firm-Five-Eleven-Partners-Launches-to-Redefine-the-Family-Office-Experience"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:launching sigil family office|geo:?",
+  "name": "Launching SIGIL Family Office",
+  "payload": {
+   "dedup_key": "name:launching sigil family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": ""
+   },
+   "identifiers": {},
+   "name": "Launching SIGIL Family Office",
+   "raw": {
+    "published": "2026-04-17T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": ""
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.familywealthreport.com/printarticle.php?id=207458"
   },
   "source_class": "Web search (EXA)"
  },
@@ -49741,6 +51013,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://advisors.ubs.com/familyofficepartners/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:leaders group and global head of family office|geo:?",
+  "name": "Leaders Group and Global Co-Head of the Family Office",
+  "payload": {
+   "dedup_key": "name:leaders group and global head of family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "Leaders Group and Global Co-Head of the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -50315,6 +51611,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:leichtman levine family office|geo:?",
+  "name": "Leichtman Levine Family Office",
+  "payload": {
+   "dedup_key": "name:leichtman levine family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "New Leichtman Levine family office launched: LL3 Ventures - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Leichtman Levine Family Office",
+   "raw": {
+    "published": "2025-10-17T14:50:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "New Leichtman Levine family office launched: LL3 Ventures - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/blog/new-leichtman-levine-family-office-launched-ll3-ventures/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:lemann family office|geo:?",
   "name": "Lemann Family Office",
   "payload": {
@@ -50552,6 +51872,30 @@
    "source_url": "https://www.netacn.com/blog/do-family-offices-have-to-file-form13f"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:leveraging a powerful family office|geo:?",
+  "name": "Leveraging a powerful Family Office",
+  "payload": {
+   "dedup_key": "name:leveraging a powerful family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "Leveraging a powerful Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:levine leichtman family office|geo:?",
@@ -50887,6 +52231,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:linkedin profile lists an unnamed family office|geo:?",
+  "name": "LinkedIn profile lists an unnamed Family Office",
+  "payload": {
+   "dedup_key": "name:linkedin profile lists an unnamed family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "identifiers": {},
+   "name": "LinkedIn profile lists an unnamed Family Office",
+   "raw": {
+    "published": "2026-10-12T15:30:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familycapitalblog.com/posts/wertheimer-chanel-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:liqid is cooperating with family office|geo:?",
   "name": "Liqid is cooperating with the Family Office",
   "payload": {
@@ -50979,6 +52347,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://familyofficelist.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:list is included in our us family office|geo:?",
+  "name": "list is included in our US Family Office",
+  "payload": {
+   "dedup_key": "name:list is included in our us family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "list is included in our US Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -51145,6 +52537,30 @@
    "source_url": "https://www.longangle.com/blog/single-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:long does family office|geo:?",
+  "name": "long does the Family Office",
+  "payload": {
+   "dedup_key": "name:long does family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "long does the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:long term capital stewardship dentonia park family office|geo:?",
@@ -52217,6 +53633,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.wealthmetrica.com/blog/raising-capital-from-single-family-offices-guide-alternatives-managers"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:managing director of family office|geo:?",
+  "name": "Managing Director of the Family Office",
+  "payload": {
+   "dedup_key": "name:managing director of family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pcnaid — Multi-Family Private Wealth Advisory & Family Office"
+   },
+   "identifiers": {},
+   "name": "Managing Director of the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Pcnaid — Multi-Family Private Wealth Advisory & Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mfo.pcnaid.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -54027,6 +55467,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:mousse is a classic single family office|geo:?",
+  "name": "Mousse is a classic single Family Office",
+  "payload": {
+   "dedup_key": "name:mousse is a classic single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "identifiers": {},
+   "name": "Mousse is a classic single Family Office",
+   "raw": {
+    "published": "2026-10-12T15:30:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familycapitalblog.com/posts/wertheimer-chanel-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:mousse partners is family office|geo:?",
   "name": "Mousse Partners is the Family Office",
   "payload": {
@@ -54428,6 +55892,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://aleta.io/knowledge-hub/multi-family-offices-a-complete-guide"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:multi family private wealth advisory family office|geo:?",
+  "name": "Multi-Family Private Wealth Advisory & Family Office",
+  "payload": {
+   "dedup_key": "name:multi family private wealth advisory family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pcnaid — Multi-Family Private Wealth Advisory & Family Office"
+   },
+   "identifiers": {},
+   "name": "Multi-Family Private Wealth Advisory & Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Pcnaid — Multi-Family Private Wealth Advisory & Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mfo.pcnaid.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -55580,6 +57068,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:northern trust family office|geo:?",
+  "name": "Northern Trust Family Office",
+  "payload": {
+   "dedup_key": "name:northern trust family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "identifiers": {},
+   "name": "Northern Trust Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.northerntrust.com/united-states/what-we-do/wealth-management/products-services/global-family-office-services"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:northwestern mutual family office|geo:?",
   "name": "Northwestern Mutual Family Office",
   "payload": {
@@ -56124,6 +57636,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://valueaddvc.com/family-office-tracker"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:nyse traded firm family office|geo:?",
+  "name": "NYSE-traded firm. The Family Office",
+  "payload": {
+   "dedup_key": "name:nyse traded firm family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "NYSE-traded firm. The Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -56702,6 +58238,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:opens for equity partners swiss family office|geo:?",
+  "name": "Opens For Equity Partners Swiss Family Office",
+  "payload": {
+   "dedup_key": "name:opens for equity partners swiss family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Swiss Family Office Opens For Equity Partners"
+   },
+   "identifiers": {},
+   "name": "Opens For Equity Partners Swiss Family Office",
+   "raw": {
+    "published": "2020-10-09T10:23:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Swiss Family Office Opens For Equity Partners"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.finews.com/news/english-news/43265-hugues-d-annoux-key-family-partners-family-office-geneva-swiss-wealth"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:opens new branch in abu dhabi dalio family office|geo:?",
   "name": "Opens New Branch In Abu Dhabi Dalio Family Office",
   "payload": {
@@ -57150,6 +58710,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.investopedia.com/terms/f/family-offices.asp"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:outsourced hybrid family office|geo:?",
+  "name": "Outsourced & Hybrid Family Office",
+  "payload": {
+   "dedup_key": "name:outsourced hybrid family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "identifiers": {},
+   "name": "Outsourced & Hybrid Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.northerntrust.com/united-states/what-we-do/wealth-management/products-services/global-family-office-services"
   },
   "source_class": "Web search (EXA)"
  },
@@ -57607,6 +59191,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:partner he advises ultra high net worth family office|geo:?",
+  "name": "Partner. He advises ultra-high-net-worth Family Office",
+  "payload": {
+   "dedup_key": "name:partner he advises ultra high net worth family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Matt Krensky | Partner, Regis Group | Mercer Advisors"
+   },
+   "identifiers": {},
+   "name": "Partner. He advises ultra-high-net-worth Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Matt Krensky | Partner, Regis Group | Mercer Advisors"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.merceradvisors.com/meet-our-team/matt-krensky/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:partner head of family office|geo:?",
   "name": "Partner & Co-Head of Family Office",
   "payload": {
@@ -57628,6 +59236,30 @@
    "source_url": "https://ceritypartners.com/individuals-and-families/family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:partner to single family office|geo:?",
+  "name": "partner to single Family Office",
+  "payload": {
+   "dedup_key": "name:partner to single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single family offices"
+   },
+   "identifiers": {},
+   "name": "partner to single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single family offices"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.mercer.com/en-gb/solutions/investments/single-family-offices/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:partner with rsm for family office|geo:?",
@@ -57889,6 +59521,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://pattersonthoma.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:pcnaid family office|geo:?",
+  "name": "Pcnaid Family Office",
+  "payload": {
+   "dedup_key": "name:pcnaid family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pcnaid — Multi-Family Private Wealth Advisory & Family Office"
+   },
+   "identifiers": {},
+   "name": "Pcnaid Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Pcnaid — Multi-Family Private Wealth Advisory & Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mfo.pcnaid.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -58323,6 +59979,54 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:phrases that build family office|geo:?",
+  "name": "Phrases that build Family Office",
+  "payload": {
+   "dedup_key": "name:phrases that build family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Phrases that build Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:phrases that erode family office|geo:?",
+  "name": "Phrases that erode Family Office",
+  "payload": {
+   "dedup_key": "name:phrases that erode family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Phrases that erode Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:pick right type of family office|geo:?",
   "name": "Pick the right type of Family Office",
   "payload": {
@@ -58367,6 +60071,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:pitcairn family office|geo:?",
+  "name": "Pitcairn Family Office",
+  "payload": {
+   "dedup_key": "name:pitcairn family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Pitcairn: The Shared Single-Family Office®"
+   },
+   "identifiers": {},
+   "name": "Pitcairn Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Pitcairn: The Shared Single-Family Office®"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.pitcairn.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -58889,6 +60617,30 @@
    "source_url": "https://umbrex.com/resources/family-office-set-up-and-operations-playbook/a-brief-history-of-family-offices"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:post on what a family office|geo:?",
+  "name": "post on what a Family Office",
+  "payload": {
+   "dedup_key": "name:post on what a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "identifiers": {},
+   "name": "post on what a Family Office",
+   "raw": {
+    "published": "2026-10-12T15:30:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familycapitalblog.com/posts/wertheimer-chanel-family-office/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:practical questions when advising family office|geo:?",
@@ -60626,6 +62378,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:ready to accelerate your family office|geo:?",
+  "name": "Ready to accelerate your Family Office",
+  "payload": {
+   "dedup_key": "name:ready to accelerate your family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Home - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Ready to accelerate your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Home - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:real capital london is a family office|geo:?",
   "name": "Real Capital London is a Family Office",
   "payload": {
@@ -60670,6 +62446,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://crestcapitalglobal.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:reality is that family office|geo:?",
+  "name": "reality is that the Family Office",
+  "payload": {
+   "dedup_key": "name:reality is that family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "reality is that the Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
   },
   "source_class": "Web search (EXA)"
  },
@@ -62149,6 +63949,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:rock family office|geo:?",
+  "name": "ROCK Family Office",
+  "payload": {
+   "dedup_key": "name:rock family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "ROCK Family Office"
+   },
+   "identifiers": {},
+   "name": "ROCK Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "ROCK Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://rock.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:rockefeller family office|geo:?",
   "name": "Rockefeller Family Office",
   "payload": {
@@ -62310,6 +64134,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://tfoa.info/family-office-investing/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:rooted in a family office|geo:?",
+  "name": "Rooted in a Family Office",
+  "payload": {
+   "dedup_key": "name:rooted in a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Meet TPG | A Leading Global Alternative Asset Manager"
+   },
+   "identifiers": {},
+   "name": "Rooted in a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Meet TPG | A Leading Global Alternative Asset Manager"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.tpg.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -64579,6 +66427,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:sigil family office|geo:?",
+  "name": "SIGIL Family Office",
+  "payload": {
+   "dedup_key": "name:sigil family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": ""
+   },
+   "identifiers": {},
+   "name": "SIGIL Family Office",
+   "raw": {
+    "published": "2026-04-17T00:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": ""
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.familywealthreport.com/printarticle.php?id=207458"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:sigil gives integrated a dedicated family office|geo:?",
   "name": "SIGIL gives Integrated a dedicated Family Office",
   "payload": {
@@ -65050,6 +66922,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:skh family office|geo:?",
+  "name": "SKH Family Office",
+  "payload": {
+   "dedup_key": "name:skh family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "SKH Family Office"
+   },
+   "identifiers": {},
+   "name": "SKH Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "SKH Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://skhfamilyoffice.com/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -65767,6 +67663,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:source for global family office|geo:?",
+  "name": "Source for Global Family Office",
+  "payload": {
+   "dedup_key": "name:source for global family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Home - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Source for Global Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Home - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:source prosper family office|geo:?",
   "name": "SOURCE Prosper Family Office",
   "payload": {
@@ -65835,6 +67755,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.prnewswire.com/news-releases/americana-partners-launches-americana-partners-family-office-group-bringing-together-specialized-expertise-through-a-coordinated-family-office-model-302885459.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:specialized services for your family office|geo:?",
+  "name": "Specialized Services for Your Family Office",
+  "payload": {
+   "dedup_key": "name:specialized services for your family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "identifiers": {},
+   "name": "Specialized Services for Your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.northerntrust.com/united-states/what-we-do/wealth-management/products-services/global-family-office-services"
   },
   "source_class": "Web search (EXA)"
  },
@@ -66623,6 +68567,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:strategic family office|geo:?",
+  "name": "Strategic Family Office",
+  "payload": {
+   "dedup_key": "name:strategic family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Oceanus Family Office | Strategic Family Office for Entrepreneurial Families"
+   },
+   "identifiers": {},
+   "name": "Strategic Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Oceanus Family Office | Strategic Family Office for Entrepreneurial Families"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.oceanusfamilyoffice.com/en"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:strategic investor network of family office|geo:?",
   "name": "Strategic investor network of Family Office",
   "payload": {
@@ -66811,6 +68779,54 @@
    "source_url": "https://thefopro.com/establishing-a-family-office-on-a-strong-foundation"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:structural fit with typical family office|geo:?",
+  "name": "Structural fit with typical Family Office",
+  "payload": {
+   "dedup_key": "name:structural fit with typical family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Structural fit with typical Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:structure of a family office|geo:?",
+  "name": "structure of a Family Office",
+  "payload": {
+   "dedup_key": "name:structure of a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Why J-P Conte Launched His Family Office  | FintechZoom"
+   },
+   "identifiers": {},
+   "name": "structure of a Family Office",
+   "raw": {
+    "published": "2026-10-23T10:00:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Why J-P Conte Launched His Family Office  | FintechZoom"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://fintechzoom.com/economy/investments/j-p-conte-launched-his-family-office/"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:structure rarely fits everyone family office|geo:?",
@@ -67310,6 +69326,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:support your single family office|geo:?",
+  "name": "support your single Family Office",
+  "payload": {
+   "dedup_key": "name:support your single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single family offices"
+   },
+   "identifiers": {},
+   "name": "support your single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single family offices"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.mercer.com/en-gb/solutions/investments/single-family-offices/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:surge is a dallas based family office|geo:?",
   "name": "Surge is a Dallas-based Family Office",
   "payload": {
@@ -67549,6 +69589,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:team from family office|geo:?",
+  "name": "team from Family Office",
+  "payload": {
+   "dedup_key": "name:team from family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "team from Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:team of advisors essential for your family office|geo:?",
   "name": "team of advisors essential for your Family Office",
   "payload": {
@@ -67665,6 +69729,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://aleta.io/knowledge-hub/family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:tengen family office|geo:?",
+  "name": "Tengen Family Office",
+  "payload": {
+   "dedup_key": "name:tengen family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "identifiers": {},
+   "name": "Tengen Family Office",
+   "raw": {
+    "published": "2026-08-27T10:45:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Dangote family office to ramp up in 2027 as investment hub"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.billionaires.africa/2026/08/27/aliko-dangote-family-office-to-launch-in-2027-as-investment-hub/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -69046,6 +71134,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:to successfully raise capital from a family office|geo:?",
+  "name": "To successfully raise capital from a Family Office",
+  "payload": {
+   "dedup_key": "name:to successfully raise capital from a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "To successfully raise capital from a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:to track direct deals family office|geo:?",
   "name": "to Track Direct Deals Family Office",
   "payload": {
@@ -69473,6 +71585,30 @@
    "source_url": "https://paretoalpha.ai/cohort/do-family-offices-file-13f"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:two very wealthy families have set up a family office|geo:?",
+  "name": "Two very wealthy families have set up a Family Office",
+  "payload": {
+   "dedup_key": "name:two very wealthy families have set up a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Swiss Family Office Opens For Equity Partners"
+   },
+   "identifiers": {},
+   "name": "Two very wealthy families have set up a Family Office",
+   "raw": {
+    "published": "2020-10-09T10:23:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Swiss Family Office Opens For Equity Partners"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.finews.com/news/english-news/43265-hugues-d-annoux-key-family-partners-family-office-geneva-swiss-wealth"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:type family office|geo:?",
@@ -70354,6 +72490,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:understanding how family office|geo:?",
+  "name": "Understanding how Family Office",
+  "payload": {
+   "dedup_key": "name:understanding how family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "Understanding how Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:understanding services a family office|geo:?",
   "name": "Understanding the services a Family Office",
   "payload": {
@@ -70732,6 +72892,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://asenaadvisors.com/family-office/multi-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:us single family office|geo:?",
+  "name": "US Single Family Office",
+  "payload": {
+   "dedup_key": "name:us single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "identifiers": {},
+   "name": "US Single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "List of the 500 Largest US Single Family Offices [2026]"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/product/us-single-family-office-list/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -71164,6 +73348,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:ventures we have also added family office|geo:?",
+  "name": "Ventures. We have also added the Family Office",
+  "payload": {
+   "dedup_key": "name:ventures we have also added family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "New Leichtman Levine family office launched: LL3 Ventures - familyofficehub.io"
+   },
+   "identifiers": {},
+   "name": "Ventures. We have also added the Family Office",
+   "raw": {
+    "published": "2025-10-17T14:50:56.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "New Leichtman Levine family office launched: LL3 Ventures - familyofficehub.io"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficehub.io/blog/new-leichtman-levine-family-office-launched-ll3-ventures/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:vincenzo is a director in kaufman rossin s family office|geo:?",
   "name": "Vincenzo is a director in Kaufman Rossin's Family Office",
   "payload": {
@@ -71570,6 +73778,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:way to source reliable single family office|geo:?",
+  "name": "way to source reliable single Family Office",
+  "payload": {
+   "dedup_key": "name:way to source reliable single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single Family Office FAQs"
+   },
+   "identifiers": {},
+   "name": "way to source reliable single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Single Family Office FAQs"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.fintrx.com/hubfs/_Approved%20Marketing%20Collateral/PDFs%20and%20Reports/Single%20Family%20Office%20FAQs.pdf"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:we advise across full gamut of family office|geo:?",
   "name": "We advise across the full gamut of Family Office",
   "payload": {
@@ -71713,6 +73945,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:we are an internationally active german swiss family office|geo:?",
+  "name": "We are an internationally active German-Swiss Family Office",
+  "payload": {
+   "dedup_key": "name:we are an internationally active german swiss family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Guetermannfamilyoffice-homepage"
+   },
+   "identifiers": {},
+   "name": "We are an internationally active German-Swiss Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Guetermannfamilyoffice-homepage"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.guetermannfamilyoffice.com/en"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:we are one of most trusted family office|geo:?",
   "name": "we are one of the most trusted Family Office",
   "payload": {
@@ -71829,6 +74085,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.globenewswire.com/news-release/2026/07/13/3326294/0/en/Family-Office-Partners-Expands-into-Houston-with-Addition-of-Patrick-Keller-and-Andrew-C-Keller.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:we can help with your family office|geo:?",
+  "name": "We can help with your Family Office",
+  "payload": {
+   "dedup_key": "name:we can help with your family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "We can help with your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
   },
   "source_class": "Web search (EXA)"
  },
@@ -72119,6 +74399,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:we offer a comprehensive family office|geo:?",
+  "name": "We offer a comprehensive Family Office",
+  "payload": {
+   "dedup_key": "name:we offer a comprehensive family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "We offer a comprehensive Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:we offer a full range of family office|geo:?",
   "name": "We offer a full range of Family Office",
   "payload": {
@@ -72140,6 +74444,30 @@
    "source_url": "https://croakcapital.com/family-office-investment-services"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:we offer tailored solutions in areas like family office|geo:?",
+  "name": "We offer tailored solutions in areas like Family Office",
+  "payload": {
+   "dedup_key": "name:we offer tailored solutions in areas like family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "We offer tailored solutions in areas like Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:we operate as a strategic extension of family office|geo:?",
@@ -73041,6 +75369,54 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:wertheimer reportedly opens a geneva family office|geo:?",
+  "name": "Wertheimer Reportedly Opens a Geneva Family Office",
+  "payload": {
+   "dedup_key": "name:wertheimer reportedly opens a geneva family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "identifiers": {},
+   "name": "Wertheimer Reportedly Opens a Geneva Family Office",
+   "raw": {
+    "published": "2026-10-12T15:30:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familycapitalblog.com/posts/wertheimer-chanel-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:wertheimer s swiss family office|geo:?",
+  "name": "Wertheimer's Swiss Family Office",
+  "payload": {
+   "dedup_key": "name:wertheimer s swiss family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "identifiers": {},
+   "name": "Wertheimer's Swiss Family Office",
+   "raw": {
+    "published": "2026-10-12T15:30:00.000Z",
+    "query": "\"family office\" established new firm",
+    "title": "Gérard Wertheimer Reportedly Opens a Geneva Family Office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familycapitalblog.com/posts/wertheimer-chanel-family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:what s minimum net worth for a single family office|geo:?",
   "name": "What's the minimum net worth for a single Family Office",
   "payload": {
@@ -73062,6 +75438,30 @@
    "source_url": "https://www.longangle.com/blog/single-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:what s typical family office|geo:?",
+  "name": "What's the typical Family Office",
+  "payload": {
+   "dedup_key": "name:what s typical family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Investment Criteria Framework"
+   },
+   "identifiers": {},
+   "name": "What's the typical Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Investment Criteria Framework"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://altss.com/knowledge-center/frameworks/family-office-investment-criteria-framework"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:where a family office|geo:?",
@@ -73366,6 +75766,54 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://alejandrorhernandez.com/family-office-advisor/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:whether you re looking to build a family office|geo:?",
+  "name": "Whether you're looking to build a Family Office",
+  "payload": {
+   "dedup_key": "name:whether you re looking to build a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "identifiers": {},
+   "name": "Whether you're looking to build a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Wealth Management | J.P. Morgan Private Bank Asia"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://privatebank.jpmorgan.com/apac/en/who-we-serve/family-office"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:whether you re running a full scale family office|geo:?",
+  "name": "Whether you're running a full-scale Family Office",
+  "payload": {
+   "dedup_key": "name:whether you re running a full scale family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "identifiers": {},
+   "name": "Whether you're running a full-scale Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"family office\" investment firm",
+    "title": "Family Office Banking & Wealth Management Services  | Northern Trust"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.northerntrust.com/united-states/what-we-do/wealth-management/products-services/global-family-office-services"
   },
   "source_class": "Web search (EXA)"
  },
@@ -75199,6 +77647,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://krainertgroup.com/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:york based single family office|geo:?",
+  "name": "York-based single Family Office",
+  "payload": {
+   "dedup_key": "name:york based single family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Rob Li | EAST COAST FAMILY OFFICE & HIGH NET WORTH CONFERENCE"
+   },
+   "identifiers": {},
+   "name": "York-based single Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Rob Li | EAST COAST FAMILY OFFICE & HIGH NET WORTH CONFERENCE"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://nyc-wealth.com/speakers/rob-li"
   },
   "source_class": "Web search (EXA)"
  },
