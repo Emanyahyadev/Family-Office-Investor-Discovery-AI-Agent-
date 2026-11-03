@@ -20749,6 +20749,30 @@
   "source_class": "Web search (Tavily)"
  },
  {
+  "dedup_key": "name:abbey road investment group has a multi family office|geo:?",
+  "name": "Abbey Road Investment Group has a Multi Family Office",
+  "payload": {
+   "dedup_key": "name:abbey road investment group has a multi family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office - MSM DIFC"
+   },
+   "identifiers": {},
+   "name": "Abbey Road Investment Group has a Multi Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office - MSM DIFC"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://msmdifc.com/service/family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:abbie rosata joined family office|geo:?",
   "name": "Abbie Rosata joined Family Office",
   "payload": {
@@ -21979,6 +22003,30 @@
    "source_url": "https://www.citizensbank.com/private-banking/insights/what-is-a-family-office.aspx"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:advisor will create family office|geo:?",
+  "name": "advisor will create Family Office",
+  "payload": {
+   "dedup_key": "name:advisor will create family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "advisor will create Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:advisors at maci family office|geo:?",
@@ -25030,6 +25078,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:athos service is family office|geo:?",
+  "name": "Athos Service is the Family Office",
+  "payload": {
+   "dedup_key": "name:athos service is family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Offices - What Do They Own?"
+   },
+   "identifiers": {},
+   "name": "Athos Service is the Family Office",
+   "raw": {
+    "published": "2021-10-19T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Offices - What Do They Own?"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://wealthbriefingasia.com/article.php?id=192693&page=1"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:atm capital partners is a small family office|geo:?",
   "name": "ATM Capital Partners LLC is a small Family Office",
   "payload": {
@@ -25764,6 +25836,30 @@
    "source_url": "https://privatebank.jpmorgan.com/nam/en/who-we-serve/family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "name:banking and accounts family office|geo:?",
+  "name": "Banking and Accounts Family Office",
+  "payload": {
+   "dedup_key": "name:banking and accounts family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "Banking and Accounts Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:bayshore global management is family office|geo:?",
@@ -27859,6 +27955,30 @@
    "source_url": "https://callanfamilyoffice.com/"
   },
   "source_class": "Web search (Serper)"
+ },
+ {
+  "dedup_key": "name:called a multi family office|geo:?",
+  "name": "called a multi Family Office",
+  "payload": {
+   "dedup_key": "name:called a multi family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "called a multi Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
  },
  {
   "dedup_key": "name:cameron holdings is a family office|geo:?",
@@ -35020,6 +35140,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:establish your family office|geo:?",
+  "name": "Establish Your Family Office",
+  "payload": {
+   "dedup_key": "name:establish your family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "Establish Your Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:established as a dedicated family office|geo:?",
   "name": "Established as a dedicated Family Office",
   "payload": {
@@ -37069,6 +37213,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.glenmede.com/private-wealth-management/family-office-services/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:family office msm difc family office|geo:?",
+  "name": "Family Office - MSM DIFC Family Office",
+  "payload": {
+   "dedup_key": "name:family office msm difc family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office - MSM DIFC"
+   },
+   "identifiers": {},
+   "name": "Family Office - MSM DIFC Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office - MSM DIFC"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://msmdifc.com/service/family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -40694,6 +40862,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:general steps in engaging a family office|geo:?",
+  "name": "general steps in engaging a Family Office",
+  "payload": {
+   "dedup_key": "name:general steps in engaging a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "general steps in engaging a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:generation family office|geo:?",
   "name": "Generation Family Office",
   "payload": {
@@ -43282,6 +43474,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:hr aurelius family office|geo:?",
+  "name": "HR Aurelius Family Office",
+  "payload": {
+   "dedup_key": "name:hr aurelius family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Form  13F-HR     Aurelius Family Office    For: Sep 30"
+   },
+   "identifiers": {},
+   "name": "HR Aurelius Family Office",
+   "raw": {
+    "published": "2026-10-23T20:38:17.000Z",
+    "query": "\"family office\" SEC 13F filings",
+    "title": "Form  13F-HR     Aurelius Family Office    For: Sep 30"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.streetinsider.com/SEC+Filings/Form+13F-HR+Aurelius+Family+Office+For%3A+Sep+30/27228330.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:hr duquesne family office|geo:?",
   "name": "HR - Duquesne Family Office",
   "payload": {
@@ -45566,6 +45782,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.cavfo.com/about"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:introduces a mini series about starting a family office|geo:?",
+  "name": "Introduces a mini-series about starting a Family Office",
+  "payload": {
+   "dedup_key": "name:introduces a mini series about starting a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Direct Investing and Co-Investing"
+   },
+   "identifiers": {},
+   "name": "Introduces a mini-series about starting a Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Direct Investing and Co-Investing"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficelist.com/guides/family-office-direct-investing-and-co-investing/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -51874,6 +52114,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:money machine multi family office|geo:?",
+  "name": "Money Machine - Multi Family Office",
+  "payload": {
+   "dedup_key": "name:money machine multi family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "Money Machine - Multi Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:monte carlo multi family office|geo:?",
   "name": "Monte Carlo Multi Family Office",
   "payload": {
@@ -52510,6 +52774,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://lennertz.com/en"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:msm family office|geo:?",
+  "name": "MSM Family Office",
+  "payload": {
+   "dedup_key": "name:msm family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office - MSM DIFC"
+   },
+   "identifiers": {},
+   "name": "MSM Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office - MSM DIFC"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://msmdifc.com/service/family-office/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -54396,6 +54684,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.familywealthreport.com/article.php/US-Wealth-Manager-Launches-Family-Office-Offering-"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:office direct investing and investing family office|geo:?",
+  "name": "Office Direct Investing and Co-Investing Family Office",
+  "payload": {
+   "dedup_key": "name:office direct investing and investing family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office Direct Investing and Co-Investing"
+   },
+   "identifiers": {},
+   "name": "Office Direct Investing and Co-Investing Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"single family office\" investor",
+    "title": "Family Office Direct Investing and Co-Investing"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://familyofficelist.com/guides/family-office-direct-investing-and-co-investing/"
   },
   "source_class": "Web search (EXA)"
  },
@@ -61750,6 +62062,30 @@
   "source_class": "Web search (Serper)"
  },
  {
+  "dedup_key": "name:seven questions to ask before creating a family office|geo:?",
+  "name": "Seven questions to ask before creating a Family Office",
+  "payload": {
+   "dedup_key": "name:seven questions to ask before creating a family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Seven considerations before creating a family office"
+   },
+   "identifiers": {},
+   "name": "Seven questions to ask before creating a Family Office",
+   "raw": {
+    "published": "2025-05-08T00:00:00.000Z",
+    "query": "\"family office\" investment firm",
+    "title": "Seven considerations before creating a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.bbh.com/us/en/insights/capital-partners-insights/seven-considerations-before-creating-a-family-office.html"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:seventh annual global family office|geo:?",
   "name": "seventh annual Global Family Office",
   "payload": {
@@ -63838,6 +64174,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.businesswire.com/news/home/20260407872746/en/%242.4-Billion-Advisory-Team-Launches-Evertern-Wealth-in-Naples-Florida"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:steps involved in building a successful family office|geo:?",
+  "name": "steps involved in building a successful Family Office",
+  "payload": {
+   "dedup_key": "name:steps involved in building a successful family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Seven considerations before creating a family office"
+   },
+   "identifiers": {},
+   "name": "steps involved in building a successful Family Office",
+   "raw": {
+    "published": "2025-05-08T00:00:00.000Z",
+    "query": "\"family office\" investment firm",
+    "title": "Seven considerations before creating a family office"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://www.bbh.com/us/en/insights/capital-partners-insights/seven-considerations-before-creating-a-family-office.html"
   },
   "source_class": "Web search (EXA)"
  },
@@ -67259,6 +67619,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://www.linkedin.com/in/joannaroland"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:uk based family office|geo:?",
+  "name": "UK-based Family Office",
+  "payload": {
+   "dedup_key": "name:uk based family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Single-Family Offices - What Do They Own?"
+   },
+   "identifiers": {},
+   "name": "UK-based Family Office",
+   "raw": {
+    "published": "2021-10-19T00:00:00.000Z",
+    "query": "\"single family office\" investor",
+    "title": "Single-Family Offices - What Do They Own?"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://wealthbriefingasia.com/article.php?id=192693&page=1"
   },
   "source_class": "Web search (EXA)"
  },
@@ -71439,6 +71823,30 @@
   "source_class": "Web search (EXA)"
  },
  {
+  "dedup_key": "name:with its customized family office|geo:?",
+  "name": "With its customized Family Office",
+  "payload": {
+   "dedup_key": "name:with its customized family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "Family Office - MSM DIFC"
+   },
+   "identifiers": {},
+   "name": "With its customized Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "Family Office - MSM DIFC"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://msmdifc.com/service/family-office/"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
   "dedup_key": "name:with launch of our family office|geo:?",
   "name": "With the launch of our Family Office",
   "payload": {
@@ -71626,6 +72034,30 @@
    },
    "source_class": "Web search (EXA)",
    "source_url": "https://praxisrock.com/resources/investors/single-family-offices"
+  },
+  "source_class": "Web search (EXA)"
+ },
+ {
+  "dedup_key": "name:words family office|geo:?",
+  "name": "words Family Office",
+  "payload": {
+   "dedup_key": "name:words family office|geo:?",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Web search (EXA)"
+   ],
+   "hints": {
+    "from_headline": "The Money Machine - Multi family office advisory"
+   },
+   "identifiers": {},
+   "name": "words Family Office",
+   "raw": {
+    "published": null,
+    "query": "\"multi family office\" advisor",
+    "title": "The Money Machine - Multi family office advisory"
+   },
+   "source_class": "Web search (EXA)",
+   "source_url": "https://mundo.expert/en/BlogNews/The-Money-Machine-Multi-family-office-advisory"
   },
   "source_class": "Web search (EXA)"
  },
@@ -72407,6 +72839,31 @@
    "source_url": "https://www.linkedin.com/company/zibra-family-office"
   },
   "source_class": "Web search (Tavily)"
+ },
+ {
+  "dedup_key": "qid:q11299412",
+  "name": "Crimson Group",
+  "payload": {
+   "dedup_key": "qid:q11299412",
+   "discovered_at": "2026-11-03",
+   "discovery_sources": [
+    "Curated directory / reference (Wikipedia, associations)"
+   ],
+   "hints": {
+    "country": "Japan"
+   },
+   "identifiers": {
+    "qid": "Q11299412"
+   },
+   "name": "Crimson Group",
+   "raw": {
+    "qid": "Q11299412",
+    "via": "wikidata"
+   },
+   "source_class": "Curated directory / reference (Wikipedia, associations)",
+   "source_url": "http://www.wikidata.org/entity/Q11299412"
+  },
+  "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
  {
   "dedup_key": "qid:q113288804",
