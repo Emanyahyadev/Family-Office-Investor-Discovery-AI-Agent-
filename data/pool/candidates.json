@@ -15357,6 +15357,39 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:313156",
+  "name": "COPPER BEECH FAMILY OFFICE",
+  "payload": {
+   "dedup_key": "crd:313156",
+   "discovered_at": "2026-11-06",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "MOORESTOWN",
+    "country": "United States",
+    "state": "NJ"
+   },
+   "identifiers": {
+    "crd": "313156"
+   },
+   "name": "COPPER BEECH FAMILY OFFICE",
+   "raw": {
+    "crd": "313156",
+    "other_names": [
+     "COPPER BEECH FAMILY OFFICE",
+     "COPPER BEECH FAMILY OFFICE",
+     "VARIUM INVESTMENT PARTNERS",
+     "COPPER BEECH FINANCIAL GROUP, LLC"
+    ],
+    "sec_number": "801-121409"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/313156"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "crd:313318",
   "name": "AXIOM FOUNDERS FAMILY OFFICE",
   "payload": {
