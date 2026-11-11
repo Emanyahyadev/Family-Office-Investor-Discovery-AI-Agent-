@@ -17975,6 +17975,37 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:345337",
+  "name": "7G MULTI-FAMILY OFFICE LLC",
+  "payload": {
+   "dedup_key": "crd:345337",
+   "discovered_at": "2026-11-11",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "BLOOMFIELD HILLS",
+    "country": "United States",
+    "state": "MI"
+   },
+   "identifiers": {
+    "crd": "345337"
+   },
+   "name": "7G MULTI-FAMILY OFFICE LLC",
+   "raw": {
+    "crd": "345337",
+    "other_names": [
+     "7G MULTI-FAMILY OFFICE LLC",
+     "7G MULTI-FAMILY OFFICE LLC"
+    ],
+    "sec_number": null
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/345337"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "domain:brisbanetimes.com.au",
   "name": "Lee Family Office",
   "payload": {
@@ -78501,6 +78532,31 @@
    },
    "source_class": "Curated directory / reference (Wikipedia, associations)",
    "source_url": "http://www.wikidata.org/entity/Q141878320"
+  },
+  "source_class": "Curated directory / reference (Wikipedia, associations)"
+ },
+ {
+  "dedup_key": "qid:q142112794",
+  "name": "Sora Capital",
+  "payload": {
+   "dedup_key": "qid:q142112794",
+   "discovered_at": "2026-11-11",
+   "discovery_sources": [
+    "Curated directory / reference (Wikipedia, associations)"
+   ],
+   "hints": {
+    "country": "United States"
+   },
+   "identifiers": {
+    "qid": "Q142112794"
+   },
+   "name": "Sora Capital",
+   "raw": {
+    "qid": "Q142112794",
+    "via": "wikidata"
+   },
+   "source_class": "Curated directory / reference (Wikipedia, associations)",
+   "source_url": "http://www.wikidata.org/entity/Q142112794"
   },
   "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
