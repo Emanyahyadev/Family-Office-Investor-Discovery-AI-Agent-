@@ -1,9 +1,9 @@
 # Run History
 
-Generated: 2026-11-15 16:59 UTC  ·  source: `logs/operating/*-summary.json` (never hand-edited).
+Generated: 2026-11-15 22:35 UTC  ·  source: `logs/operating/*-summary.json` (never hand-edited).
 
 **1 operating-cycle run(s)** indexed.
 
 | Run | Tasks | Statuses | Escalated | Trace |
 |---|---|---|---|---|
-| `run-20261115T164343-c88490` | 0 | - | 0 | /home/runner/work/Family-Office-Investor-Discovery-AI-Agent-/Family-Office-Investor-Discovery-AI-Agent-/logs/operating/run-20261115T164343-c88490.jsonl |
+| `run-20261115T222009-6c1714` | 0 | - | 0 | /home/runner/work/Family-Office-Investor-Discovery-AI-Agent-/Family-Office-Investor-Discovery-AI-Agent-/logs/operating/run-20261115T222009-6c1714.jsonl |
