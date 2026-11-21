@@ -11985,6 +11985,39 @@
   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
  },
  {
+  "dedup_key": "crd:150460",
+  "name": "THREE BRIDGE FAMILY OFFICE",
+  "payload": {
+   "dedup_key": "crd:150460",
+   "discovered_at": "2026-11-21",
+   "discovery_sources": [
+    "SEC IAPD / Form ADV (investment-adviser registration)"
+   ],
+   "hints": {
+    "city": "LOS ALTOS",
+    "country": "United States",
+    "state": "CA"
+   },
+   "identifiers": {
+    "crd": "150460"
+   },
+   "name": "THREE BRIDGE FAMILY OFFICE",
+   "raw": {
+    "crd": "150460",
+    "other_names": [
+     "THREE BRIDGE FAMILY OFFICE",
+     "THREE BRIDGE FAMILY OFFICE",
+     "THREE BRIDGE WEALTH ADVISORS, LLC",
+     "THREE BRIDGE WEALTH ADVISORS"
+    ],
+    "sec_number": "801-70332"
+   },
+   "source_class": "SEC IAPD / Form ADV (investment-adviser registration)",
+   "source_url": "https://adviserinfo.sec.gov/firm/summary/150460"
+  },
+  "source_class": "SEC IAPD / Form ADV (investment-adviser registration)"
+ },
+ {
   "dedup_key": "crd:150748",
   "name": "TIMONIER",
   "payload": {
