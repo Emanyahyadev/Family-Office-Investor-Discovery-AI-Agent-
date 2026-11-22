@@ -78419,6 +78419,31 @@
   "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
  {
+  "dedup_key": "qid:q137216135",
+  "name": "Lucid Investments",
+  "payload": {
+   "dedup_key": "qid:q137216135",
+   "discovered_at": "2026-11-22",
+   "discovery_sources": [
+    "Curated directory / reference (Wikipedia, associations)"
+   ],
+   "hints": {
+    "country": "Israel"
+   },
+   "identifiers": {
+    "qid": "Q137216135"
+   },
+   "name": "Lucid Investments",
+   "raw": {
+    "qid": "Q137216135",
+    "via": "wikidata"
+   },
+   "source_class": "Curated directory / reference (Wikipedia, associations)",
+   "source_url": "http://www.wikidata.org/entity/Q137216135"
+  },
+  "source_class": "Curated directory / reference (Wikipedia, associations)"
+ },
+ {
   "dedup_key": "qid:q137455497",
   "name": "Builders Vision",
   "payload": {
