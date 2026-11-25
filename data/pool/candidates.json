@@ -19423,6 +19423,34 @@
   "source_class": "IRS 990-PF (ProPublica Nonprofit Explorer)"
  },
  {
+  "dedup_key": "ein:41-2997143",
+  "name": "Fun Horizon Family Office Inc",
+  "payload": {
+   "dedup_key": "ein:41-2997143",
+   "discovered_at": "2026-11-25",
+   "discovery_sources": [
+    "IRS 990-PF (ProPublica Nonprofit Explorer)"
+   ],
+   "hints": {
+    "city": "Key Biscayne",
+    "state": "FL"
+   },
+   "identifiers": {
+    "ein": "41-2997143"
+   },
+   "name": "Fun Horizon Family Office Inc",
+   "raw": {
+    "ein": "41-2997143",
+    "matched_query": "family office",
+    "ntee_code": "T20",
+    "subseccd": 3
+   },
+   "source_class": "IRS 990-PF (ProPublica Nonprofit Explorer)",
+   "source_url": "https://projects.propublica.org/nonprofits/organizations/412997143"
+  },
+  "source_class": "IRS 990-PF (ProPublica Nonprofit Explorer)"
+ },
+ {
   "dedup_key": "ein:41-4463933",
   "name": "Prestige Family Office University",
   "payload": {
