@@ -78647,6 +78647,31 @@
   "source_class": "Curated directory / reference (Wikipedia, associations)"
  },
  {
+  "dedup_key": "qid:q142294742",
+  "name": "ACTIV8 Family Office",
+  "payload": {
+   "dedup_key": "qid:q142294742",
+   "discovered_at": "2026-11-26",
+   "discovery_sources": [
+    "Curated directory / reference (Wikipedia, associations)"
+   ],
+   "hints": {
+    "country": "United States"
+   },
+   "identifiers": {
+    "qid": "Q142294742"
+   },
+   "name": "ACTIV8 Family Office",
+   "raw": {
+    "qid": "Q142294742",
+    "via": "wikidata"
+   },
+   "source_class": "Curated directory / reference (Wikipedia, associations)",
+   "source_url": "http://www.wikidata.org/entity/Q142294742"
+  },
+  "source_class": "Curated directory / reference (Wikipedia, associations)"
+ },
+ {
   "dedup_key": "qid:q29954162",
   "name": "Bancard Group",
   "payload": {
